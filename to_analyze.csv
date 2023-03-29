@@ -1,0 +1,1681 @@
+ori_city,dest_city,laneRequest,ship_date,rpm_est_mean
+Boston,Edison,zip3:021-zip3:088,"Jan 1, 2023",7.258917434916224
+Boston,Edison,zip3:022-zip3:088,"Jan 1, 2023",9.030319454715958
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 1, 2023",4.863798246061836
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 1, 2023",4.886874765578828
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 1, 2023",4.949050066946786
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 1, 2023",10.897513246689275
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 1, 2023",8.066190513280258
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 1, 2023",4.962546915125083
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 1, 2023",5.157977836673245
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 1, 2023",13.490846250374346
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 1, 2023",8.323568896861932
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 1, 2023",8.193177702763439
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 1, 2023",7.023733024971988
+Chicago,Chicago,zip3:606-zip3:606,"Jan 1, 2023",28.353538903972886
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 1, 2023",7.7985054525102
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 1, 2023",5.926639126642001
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 1, 2023",6.020233441226666
+Houston,Dallas,zip3:770-zip3:752,"Jan 1, 2023",6.719857632376651
+Houston,Dallas,zip3:770-zip3:753,"Jan 1, 2023",6.8785484507217936
+Houston,Laredo,zip3:770-zip3:780,"Jan 1, 2023",7.258507508704099
+Houston,San Antonio,zip3:770-zip3:782,"Jan 1, 2023",7.449360897070265
+Houston,Dallas,zip3:772-zip3:752,"Jan 1, 2023",7.069719166965839
+Houston,Dallas,zip3:772-zip3:753,"Jan 1, 2023",7.308528885007881
+Houston,Laredo,zip3:772-zip3:780,"Jan 1, 2023",7.365839863402503
+Houston,San Antonio,zip3:772-zip3:782,"Jan 1, 2023",8.031384336935076
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 1, 2023",5.280767058236631
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 1, 2023",6.078420103193378
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 1, 2023",5.611835533865256
+Boston,Edison,zip3:021-zip3:088,"Jan 2, 2023",7.404890643079107
+Boston,Edison,zip3:022-zip3:088,"Jan 2, 2023",8.77718187704089
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 2, 2023",4.991741456073187
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 2, 2023",4.024261224006994
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 2, 2023",4.107736709952222
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 2, 2023",10.489257006360676
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 2, 2023",7.3840869910869
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 2, 2023",5.3868733788156264
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 2, 2023",4.719792389589398
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 2, 2023",18.00472411754846
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 2, 2023",7.746250932374657
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 2, 2023",7.213326273008846
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 2, 2023",7.102623408374421
+Chicago,Chicago,zip3:606-zip3:606,"Jan 2, 2023",27.729821159943075
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 2, 2023",7.297078948435006
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 2, 2023",5.248042970614071
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 2, 2023",5.533882501202232
+Houston,Dallas,zip3:770-zip3:752,"Jan 2, 2023",6.020533921629219
+Houston,Dallas,zip3:770-zip3:753,"Jan 2, 2023",6.494146242569425
+Houston,Laredo,zip3:770-zip3:780,"Jan 2, 2023",6.473735831907993
+Houston,San Antonio,zip3:770-zip3:782,"Jan 2, 2023",6.927863101839836
+Houston,Dallas,zip3:772-zip3:752,"Jan 2, 2023",6.2046024344775015
+Houston,Dallas,zip3:772-zip3:753,"Jan 2, 2023",6.29855274546031
+Houston,Laredo,zip3:772-zip3:780,"Jan 2, 2023",6.322105644639499
+Houston,San Antonio,zip3:772-zip3:782,"Jan 2, 2023",7.361822491751884
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 2, 2023",4.184838444261432
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 2, 2023",6.126764480409719
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 2, 2023",5.921128687029201
+Boston,Edison,zip3:021-zip3:088,"Jan 3, 2023",8.473560875112934
+Boston,Edison,zip3:022-zip3:088,"Jan 3, 2023",8.581262969637642
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 3, 2023",4.778677372436384
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 3, 2023",4.922549479666058
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 3, 2023",5.127698691864607
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 3, 2023",10.375337613502612
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 3, 2023",7.64322117661401
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 3, 2023",5.240475878560703
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 3, 2023",4.5914867694558
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 3, 2023",17.023484325019357
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 3, 2023",7.164743100938892
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 3, 2023",8.260877321947156
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 3, 2023",7.533228305370682
+Chicago,Chicago,zip3:606-zip3:606,"Jan 3, 2023",28.504980632554197
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 3, 2023",7.277056449815716
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 3, 2023",5.730105771455112
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 3, 2023",5.90240003881166
+Houston,Dallas,zip3:770-zip3:752,"Jan 3, 2023",6.463982983296649
+Houston,Dallas,zip3:770-zip3:753,"Jan 3, 2023",6.587024820027671
+Houston,Laredo,zip3:770-zip3:780,"Jan 3, 2023",5.7247091093188995
+Houston,San Antonio,zip3:770-zip3:782,"Jan 3, 2023",8.056575273034436
+Houston,Dallas,zip3:772-zip3:752,"Jan 3, 2023",6.428446324880716
+Houston,Dallas,zip3:772-zip3:753,"Jan 3, 2023",6.628655651726432
+Houston,Laredo,zip3:772-zip3:780,"Jan 3, 2023",5.755049308069137
+Houston,San Antonio,zip3:772-zip3:782,"Jan 3, 2023",7.974011783126206
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 3, 2023",5.76780716932764
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 3, 2023",6.317806688228178
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 3, 2023",5.8115000712604035
+Boston,Edison,zip3:021-zip3:088,"Jan 4, 2023",8.97675840102067
+Boston,Edison,zip3:022-zip3:088,"Jan 4, 2023",8.785608249110716
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 4, 2023",4.8261166289945
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 4, 2023",4.702738121517215
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 4, 2023",4.811405656139957
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 4, 2023",11.730698739091903
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 4, 2023",7.828906759350341
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 4, 2023",5.3905246697090625
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 4, 2023",4.567725100487757
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 4, 2023",17.21171630500616
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 4, 2023",7.305156616727318
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 4, 2023",8.06074759925184
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 4, 2023",7.536425663867791
+Chicago,Chicago,zip3:606-zip3:606,"Jan 4, 2023",28.649416503679745
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 4, 2023",7.367292676257442
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 4, 2023",5.700572502373878
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 4, 2023",6.31448176336438
+Houston,Dallas,zip3:770-zip3:752,"Jan 4, 2023",8.257771202439432
+Houston,Dallas,zip3:770-zip3:753,"Jan 4, 2023",8.126449628379081
+Houston,Laredo,zip3:770-zip3:780,"Jan 4, 2023",6.218090297124428
+Houston,San Antonio,zip3:770-zip3:782,"Jan 4, 2023",7.767582125570822
+Houston,Dallas,zip3:772-zip3:752,"Jan 4, 2023",8.531030245948251
+Houston,Dallas,zip3:772-zip3:753,"Jan 4, 2023",8.263457060521226
+Houston,Laredo,zip3:772-zip3:780,"Jan 4, 2023",6.272753862640551
+Houston,San Antonio,zip3:772-zip3:782,"Jan 4, 2023",8.047192366900903
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 4, 2023",4.839491185551955
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 4, 2023",6.385665305679627
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 4, 2023",5.783513031314298
+Boston,Edison,zip3:021-zip3:088,"Jan 5, 2023",8.862902653988993
+Boston,Edison,zip3:022-zip3:088,"Jan 5, 2023",8.480865751952166
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 5, 2023",5.903056003806104
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 5, 2023",4.515112140434754
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 5, 2023",4.613218523826504
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 5, 2023",10.527480019918901
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 5, 2023",7.986918302781197
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 5, 2023",5.442621273679157
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 5, 2023",4.87610196224706
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 5, 2023",16.99585065452069
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 5, 2023",6.918313704505374
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 5, 2023",8.428511385843212
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 5, 2023",8.281067687340357
+Chicago,Chicago,zip3:606-zip3:606,"Jan 5, 2023",28.217581739621856
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 5, 2023",7.243759116946871
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 5, 2023",5.440057362258775
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 5, 2023",6.469071379159931
+Houston,Dallas,zip3:770-zip3:752,"Jan 5, 2023",8.02833732853904
+Houston,Dallas,zip3:770-zip3:753,"Jan 5, 2023",7.973662511032095
+Houston,Laredo,zip3:770-zip3:780,"Jan 5, 2023",5.791673750633507
+Houston,San Antonio,zip3:770-zip3:782,"Jan 5, 2023",7.704499807028263
+Houston,Dallas,zip3:772-zip3:752,"Jan 5, 2023",8.013417154296572
+Houston,Dallas,zip3:772-zip3:753,"Jan 5, 2023",7.835989167403549
+Houston,Laredo,zip3:772-zip3:780,"Jan 5, 2023",5.875566610316687
+Houston,San Antonio,zip3:772-zip3:782,"Jan 5, 2023",8.112759696110057
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 5, 2023",4.774217913839765
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 5, 2023",6.220002237551389
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 5, 2023",5.914975450510342
+Boston,Edison,zip3:021-zip3:088,"Jan 6, 2023",9.02611195801186
+Boston,Edison,zip3:022-zip3:088,"Jan 6, 2023",8.650388769296354
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 6, 2023",5.437542141330704
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 6, 2023",4.411581767275067
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 6, 2023",4.396190872004395
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 6, 2023",10.718999593974612
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 6, 2023",8.077301436604632
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 6, 2023",5.130564001161943
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 6, 2023",4.856707256400682
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 6, 2023",16.366427766157525
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 6, 2023",7.31340396835716
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 6, 2023",8.095804579176034
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 6, 2023",8.114721643307314
+Chicago,Chicago,zip3:606-zip3:606,"Jan 6, 2023",28.260592721455136
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 6, 2023",7.452124487683803
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 6, 2023",5.3990503119086455
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 6, 2023",5.963426121089437
+Houston,Dallas,zip3:770-zip3:752,"Jan 6, 2023",7.576616618149419
+Houston,Dallas,zip3:770-zip3:753,"Jan 6, 2023",7.60582428446609
+Houston,Laredo,zip3:770-zip3:780,"Jan 6, 2023",6.021689290446454
+Houston,San Antonio,zip3:770-zip3:782,"Jan 6, 2023",7.507366006459876
+Houston,Dallas,zip3:772-zip3:752,"Jan 6, 2023",7.588785315117843
+Houston,Dallas,zip3:772-zip3:753,"Jan 6, 2023",7.5722022152797654
+Houston,Laredo,zip3:772-zip3:780,"Jan 6, 2023",5.947620888844704
+Houston,San Antonio,zip3:772-zip3:782,"Jan 6, 2023",7.567610017026977
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 6, 2023",4.286954664154511
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 6, 2023",6.790539857216848
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 6, 2023",6.080372313366867
+Boston,Edison,zip3:021-zip3:088,"Jan 7, 2023",6.586239618114843
+Boston,Edison,zip3:022-zip3:088,"Jan 7, 2023",6.574655811464833
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 7, 2023",5.476395676176939
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 7, 2023",4.451798066635075
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 7, 2023",4.5572564454696
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 7, 2023",12.48817263774582
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 7, 2023",9.71146726819093
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 7, 2023",5.427925628035593
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 7, 2023",4.970570993205152
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 7, 2023",16.53892699572009
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 7, 2023",8.981301274333816
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 7, 2023",7.3092597285807095
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 7, 2023",8.427437088750324
+Chicago,Chicago,zip3:606-zip3:606,"Jan 7, 2023",27.539223956797777
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 7, 2023",7.3857386430925
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 7, 2023",5.9210103036855575
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 7, 2023",6.42762116730902
+Houston,Dallas,zip3:770-zip3:752,"Jan 7, 2023",7.070426317379017
+Houston,Dallas,zip3:770-zip3:753,"Jan 7, 2023",7.022864275859365
+Houston,Laredo,zip3:770-zip3:780,"Jan 7, 2023",5.744560423265792
+Houston,San Antonio,zip3:770-zip3:782,"Jan 7, 2023",8.5384367609017
+Houston,Dallas,zip3:772-zip3:752,"Jan 7, 2023",7.230790236641381
+Houston,Dallas,zip3:772-zip3:753,"Jan 7, 2023",7.233847225944193
+Houston,Laredo,zip3:772-zip3:780,"Jan 7, 2023",5.838686016616606
+Houston,San Antonio,zip3:772-zip3:782,"Jan 7, 2023",8.493366166924153
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 7, 2023",4.210384937608849
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 7, 2023",6.0930878748224835
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 7, 2023",5.631352453141201
+Boston,Edison,zip3:021-zip3:088,"Jan 8, 2023",6.665579875824416
+Boston,Edison,zip3:022-zip3:088,"Jan 8, 2023",6.19598411080187
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 8, 2023",5.741243030084931
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 8, 2023",4.4534142721898675
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 8, 2023",4.438164428591273
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 8, 2023",13.080216212631978
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 8, 2023",8.767784081098803
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 8, 2023",4.636697917142385
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 8, 2023",4.884799468738279
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 8, 2023",16.465744959358048
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 8, 2023",7.180173844837247
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 8, 2023",7.1721720747371815
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 8, 2023",8.21767788359952
+Chicago,Chicago,zip3:606-zip3:606,"Jan 8, 2023",27.72459309538623
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 8, 2023",7.472202823801918
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 8, 2023",5.192807171389623
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 8, 2023",5.752215490788515
+Houston,Dallas,zip3:770-zip3:752,"Jan 8, 2023",6.858605689737049
+Houston,Dallas,zip3:770-zip3:753,"Jan 8, 2023",7.127799930253679
+Houston,Laredo,zip3:770-zip3:780,"Jan 8, 2023",5.420664700148913
+Houston,San Antonio,zip3:770-zip3:782,"Jan 8, 2023",7.128887484486423
+Houston,Dallas,zip3:772-zip3:752,"Jan 8, 2023",7.005586369914758
+Houston,Dallas,zip3:772-zip3:753,"Jan 8, 2023",6.9945527417932745
+Houston,Laredo,zip3:772-zip3:780,"Jan 8, 2023",5.445354061884965
+Houston,San Antonio,zip3:772-zip3:782,"Jan 8, 2023",7.234678678679916
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 8, 2023",4.332340327120799
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 8, 2023",6.681937012764341
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 8, 2023",5.969269178482737
+Boston,Edison,zip3:021-zip3:088,"Jan 9, 2023",6.352198443495002
+Boston,Edison,zip3:022-zip3:088,"Jan 9, 2023",6.002396930840894
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 9, 2023",5.529962443857485
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 9, 2023",4.1401676261802525
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 9, 2023",4.1460832695229035
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 9, 2023",10.654344412991684
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 9, 2023",8.742484021633619
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 9, 2023",5.348874285356725
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 9, 2023",4.825610198170768
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 9, 2023",16.809217324491474
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 9, 2023",7.147680936886374
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 9, 2023",7.03251205329885
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 9, 2023",8.117359217835851
+Chicago,Chicago,zip3:606-zip3:606,"Jan 9, 2023",28.45007532207944
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 9, 2023",7.635266298602618
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 9, 2023",5.7931985820759255
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 9, 2023",6.127725760356894
+Houston,Dallas,zip3:770-zip3:752,"Jan 9, 2023",7.518572316276083
+Houston,Dallas,zip3:770-zip3:753,"Jan 9, 2023",7.590667677803576
+Houston,Laredo,zip3:770-zip3:780,"Jan 9, 2023",5.749420705380256
+Houston,San Antonio,zip3:770-zip3:782,"Jan 9, 2023",7.58372270216549
+Houston,Dallas,zip3:772-zip3:752,"Jan 9, 2023",7.640330355573463
+Houston,Dallas,zip3:772-zip3:753,"Jan 9, 2023",7.34771535400266
+Houston,Laredo,zip3:772-zip3:780,"Jan 9, 2023",5.67994372902909
+Houston,San Antonio,zip3:772-zip3:782,"Jan 9, 2023",7.612704666070908
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 9, 2023",4.93387510447041
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 9, 2023",6.894026975409146
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 9, 2023",5.9565408345530955
+Boston,Edison,zip3:021-zip3:088,"Jan 10, 2023",7.189714174491845
+Boston,Edison,zip3:022-zip3:088,"Jan 10, 2023",6.6554979106711
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 10, 2023",5.450194055074254
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 10, 2023",4.270293521943888
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 10, 2023",4.347675993243087
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 10, 2023",10.835555008259874
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 10, 2023",8.655101176023813
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 10, 2023",5.275561157069566
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 10, 2023",4.879994922935669
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 10, 2023",15.982634378536963
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 10, 2023",7.066667595671325
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 10, 2023",7.113315749158266
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 10, 2023",7.08330272505723
+Chicago,Chicago,zip3:606-zip3:606,"Jan 10, 2023",28.211015896944446
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 10, 2023",6.881585086940264
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 10, 2023",5.799851246743931
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 10, 2023",5.960195081613346
+Houston,Dallas,zip3:770-zip3:752,"Jan 10, 2023",7.67249523319755
+Houston,Dallas,zip3:770-zip3:753,"Jan 10, 2023",7.604993594568116
+Houston,Laredo,zip3:770-zip3:780,"Jan 10, 2023",5.826459939484157
+Houston,San Antonio,zip3:770-zip3:782,"Jan 10, 2023",7.28685870266887
+Houston,Dallas,zip3:772-zip3:752,"Jan 10, 2023",7.695821245588223
+Houston,Dallas,zip3:772-zip3:753,"Jan 10, 2023",7.513925560641773
+Houston,Laredo,zip3:772-zip3:780,"Jan 10, 2023",5.604893109678782
+Houston,San Antonio,zip3:772-zip3:782,"Jan 10, 2023",7.504525116178053
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 10, 2023",4.815879809590302
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 10, 2023",7.3139382996022615
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 10, 2023",6.434125162756587
+Boston,Edison,zip3:021-zip3:088,"Jan 11, 2023",7.9858710877106365
+Boston,Edison,zip3:022-zip3:088,"Jan 11, 2023",7.106636584880764
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 11, 2023",5.230377839816584
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 11, 2023",4.296175659488601
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 11, 2023",4.248924931374249
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 11, 2023",10.49680131628826
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 11, 2023",8.839940465742927
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 11, 2023",5.367499072210514
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 11, 2023",4.583872769374219
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 11, 2023",15.874704670496289
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 11, 2023",7.270695073034792
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 11, 2023",7.169972794359181
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 11, 2023",7.115429072525076
+Chicago,Chicago,zip3:606-zip3:606,"Jan 11, 2023",28.888511931687017
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 11, 2023",6.968397143506094
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 11, 2023",5.750614678106892
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 11, 2023",5.656934514522929
+Houston,Dallas,zip3:770-zip3:752,"Jan 11, 2023",8.292725056707152
+Houston,Dallas,zip3:770-zip3:753,"Jan 11, 2023",8.117896764466593
+Houston,Laredo,zip3:770-zip3:780,"Jan 11, 2023",5.750593945725795
+Houston,San Antonio,zip3:770-zip3:782,"Jan 11, 2023",7.577496353904918
+Houston,Dallas,zip3:772-zip3:752,"Jan 11, 2023",8.454163876198853
+Houston,Dallas,zip3:772-zip3:753,"Jan 11, 2023",8.150101458931609
+Houston,Laredo,zip3:772-zip3:780,"Jan 11, 2023",5.703809267737935
+Houston,San Antonio,zip3:772-zip3:782,"Jan 11, 2023",7.791430046940603
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 11, 2023",5.230409527115553
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 11, 2023",7.008862649557399
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 11, 2023",6.113021976045285
+Boston,Edison,zip3:021-zip3:088,"Jan 12, 2023",7.542605276362439
+Boston,Edison,zip3:022-zip3:088,"Jan 12, 2023",7.316224614470076
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 12, 2023",5.177454031215165
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 12, 2023",4.268531660952896
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 12, 2023",4.547528972529152
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 12, 2023",10.557866331792933
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 12, 2023",8.922605567425238
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 12, 2023",5.169548790324478
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 12, 2023",4.568843404792659
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 12, 2023",13.623505801198132
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 12, 2023",6.563931336331896
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 12, 2023",7.157199544714922
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 12, 2023",6.34498540151977
+Chicago,Chicago,zip3:606-zip3:606,"Jan 12, 2023",29.101476463384973
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 12, 2023",7.301132172686817
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 12, 2023",5.371364128562314
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 12, 2023",5.226223451346204
+Houston,Dallas,zip3:770-zip3:752,"Jan 12, 2023",7.120421173522082
+Houston,Dallas,zip3:770-zip3:753,"Jan 12, 2023",7.184231964883779
+Houston,Laredo,zip3:770-zip3:780,"Jan 12, 2023",6.195688897346548
+Houston,San Antonio,zip3:770-zip3:782,"Jan 12, 2023",7.378244925654801
+Houston,Dallas,zip3:772-zip3:752,"Jan 12, 2023",7.325071972722883
+Houston,Dallas,zip3:772-zip3:753,"Jan 12, 2023",7.209788377502843
+Houston,Laredo,zip3:772-zip3:780,"Jan 12, 2023",6.513502923857345
+Houston,San Antonio,zip3:772-zip3:782,"Jan 12, 2023",7.405331697375553
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 12, 2023",4.314116277332938
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 12, 2023",6.966430809282587
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 12, 2023",6.072574645037394
+Boston,Edison,zip3:021-zip3:088,"Jan 13, 2023",8.694617735456806
+Boston,Edison,zip3:022-zip3:088,"Jan 13, 2023",8.261513764253696
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 13, 2023",5.031129532438205
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 13, 2023",4.174487753724442
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 13, 2023",4.355816588843581
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 13, 2023",10.545181806773202
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 13, 2023",8.123228388376836
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 13, 2023",3.7381568448237266
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 13, 2023",4.422453673757058
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 13, 2023",13.183936392360504
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 13, 2023",6.778123656454209
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 13, 2023",6.535113905584787
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 13, 2023",5.989416360793038
+Chicago,Chicago,zip3:606-zip3:606,"Jan 13, 2023",29.058751626955168
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 13, 2023",7.252310510552757
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 13, 2023",5.32517241467259
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 13, 2023",5.182346817963259
+Houston,Dallas,zip3:770-zip3:752,"Jan 13, 2023",7.44302594117894
+Houston,Dallas,zip3:770-zip3:753,"Jan 13, 2023",7.5534613274378355
+Houston,Laredo,zip3:770-zip3:780,"Jan 13, 2023",6.045704490363355
+Houston,San Antonio,zip3:770-zip3:782,"Jan 13, 2023",7.375344324580224
+Houston,Dallas,zip3:772-zip3:752,"Jan 13, 2023",7.526890118151588
+Houston,Dallas,zip3:772-zip3:753,"Jan 13, 2023",7.418780265718331
+Houston,Laredo,zip3:772-zip3:780,"Jan 13, 2023",6.085048242454404
+Houston,San Antonio,zip3:772-zip3:782,"Jan 13, 2023",7.273313721540502
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 13, 2023",4.943534955707088
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 13, 2023",7.626077601727394
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 13, 2023",6.744185077033046
+Boston,Edison,zip3:021-zip3:088,"Jan 14, 2023",7.900165469845865
+Boston,Edison,zip3:022-zip3:088,"Jan 14, 2023",7.662549266779882
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 14, 2023",4.778899976898928
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 14, 2023",3.9446304440588786
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 14, 2023",4.132574965546756
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 14, 2023",10.46593680352506
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 14, 2023",7.779220178364202
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 14, 2023",4.6006586338659865
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 14, 2023",4.42360821944168
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 14, 2023",13.274172672431735
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 14, 2023",6.233016295478247
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 14, 2023",6.883418633448294
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 14, 2023",5.987806749949453
+Chicago,Chicago,zip3:606-zip3:606,"Jan 14, 2023",29.23384428871568
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 14, 2023",6.99689554552517
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 14, 2023",5.191066622077074
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 14, 2023",5.161136820700026
+Houston,Dallas,zip3:770-zip3:752,"Jan 14, 2023",7.505886214141239
+Houston,Dallas,zip3:770-zip3:753,"Jan 14, 2023",7.432644573715409
+Houston,Laredo,zip3:770-zip3:780,"Jan 14, 2023",5.460419601468669
+Houston,San Antonio,zip3:770-zip3:782,"Jan 14, 2023",6.890451454150739
+Houston,Dallas,zip3:772-zip3:752,"Jan 14, 2023",7.771036797773301
+Houston,Dallas,zip3:772-zip3:753,"Jan 14, 2023",7.678618880161617
+Houston,Laredo,zip3:772-zip3:780,"Jan 14, 2023",5.509606086479813
+Houston,San Antonio,zip3:772-zip3:782,"Jan 14, 2023",6.9810004805827965
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 14, 2023",4.828743964860372
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 14, 2023",5.9798218559407115
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 14, 2023",5.854757720808039
+Boston,Edison,zip3:021-zip3:088,"Jan 15, 2023",6.598797381546689
+Boston,Edison,zip3:022-zip3:088,"Jan 15, 2023",6.6195495181011825
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 15, 2023",4.940564808286473
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 15, 2023",4.100091845454609
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 15, 2023",4.285827170887842
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 15, 2023",10.323105855649557
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 15, 2023",7.649738081552374
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 15, 2023",4.8964509072381395
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 15, 2023",4.3305262865875935
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 15, 2023",12.286883393285205
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 15, 2023",7.065725123535791
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 15, 2023",6.657126370829342
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 15, 2023",6.166530600938568
+Chicago,Chicago,zip3:606-zip3:606,"Jan 15, 2023",29.320569806671966
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 15, 2023",6.870572250630561
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 15, 2023",5.401999290872277
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 15, 2023",5.279415745463028
+Houston,Dallas,zip3:770-zip3:752,"Jan 15, 2023",6.797397138801442
+Houston,Dallas,zip3:770-zip3:753,"Jan 15, 2023",6.829195427878986
+Houston,Laredo,zip3:770-zip3:780,"Jan 15, 2023",5.734726166520199
+Houston,San Antonio,zip3:770-zip3:782,"Jan 15, 2023",7.057677791532401
+Houston,Dallas,zip3:772-zip3:752,"Jan 15, 2023",7.158400393509644
+Houston,Dallas,zip3:772-zip3:753,"Jan 15, 2023",7.0007046111580244
+Houston,Laredo,zip3:772-zip3:780,"Jan 15, 2023",5.863493458154456
+Houston,San Antonio,zip3:772-zip3:782,"Jan 15, 2023",7.091113077269655
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 15, 2023",4.9099887529347725
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 15, 2023",5.889933301376142
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 15, 2023",5.7504499143967855
+Boston,Edison,zip3:021-zip3:088,"Jan 16, 2023",7.452241176857423
+Boston,Edison,zip3:022-zip3:088,"Jan 16, 2023",7.413247752334099
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 16, 2023",5.340713671891283
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 16, 2023",4.090620882398015
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 16, 2023",4.3095772171193225
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 16, 2023",10.799224997935438
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 16, 2023",7.683804781244495
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 16, 2023",4.6619300817081974
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 16, 2023",4.44322556447054
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 16, 2023",12.942462643790037
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 16, 2023",7.389996186346801
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 16, 2023",6.429910679381276
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 16, 2023",5.783482483565004
+Chicago,Chicago,zip3:606-zip3:606,"Jan 16, 2023",27.540139361150707
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 16, 2023",6.840313048604225
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 16, 2023",5.325972361502377
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 16, 2023",5.284531461049175
+Houston,Dallas,zip3:770-zip3:752,"Jan 16, 2023",6.945849658068607
+Houston,Dallas,zip3:770-zip3:753,"Jan 16, 2023",6.94183302960097
+Houston,Laredo,zip3:770-zip3:780,"Jan 16, 2023",5.8039089562278185
+Houston,San Antonio,zip3:770-zip3:782,"Jan 16, 2023",7.625138313314951
+Houston,Dallas,zip3:772-zip3:752,"Jan 16, 2023",7.104744880685374
+Houston,Dallas,zip3:772-zip3:753,"Jan 16, 2023",6.864327872874647
+Houston,Laredo,zip3:772-zip3:780,"Jan 16, 2023",5.823276835829299
+Houston,San Antonio,zip3:772-zip3:782,"Jan 16, 2023",7.698166013147919
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 16, 2023",4.537981952961676
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 16, 2023",6.556582067144378
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 16, 2023",6.1105907356619635
+Boston,Edison,zip3:021-zip3:088,"Jan 17, 2023",8.000322549677856
+Boston,Edison,zip3:022-zip3:088,"Jan 17, 2023",7.937071095384702
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 17, 2023",4.616065101493055
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 17, 2023",3.9990116094988073
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 17, 2023",4.249741553507487
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 17, 2023",9.91257351922859
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 17, 2023",7.365397882319829
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 17, 2023",4.461541514301269
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 17, 2023",4.496629523304859
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 17, 2023",13.580157558324988
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 17, 2023",7.377528672082615
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 17, 2023",6.947779033558126
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 17, 2023",6.198439277822295
+Chicago,Chicago,zip3:606-zip3:606,"Jan 17, 2023",28.918541359735695
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 17, 2023",6.990255129709306
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 17, 2023",5.4304210582599985
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 17, 2023",5.305272353201799
+Houston,Dallas,zip3:770-zip3:752,"Jan 17, 2023",6.945642938032208
+Houston,Dallas,zip3:770-zip3:753,"Jan 17, 2023",6.817979429533719
+Houston,Laredo,zip3:770-zip3:780,"Jan 17, 2023",5.671489737898957
+Houston,San Antonio,zip3:770-zip3:782,"Jan 17, 2023",7.752159234293824
+Houston,Dallas,zip3:772-zip3:752,"Jan 17, 2023",7.382115655758235
+Houston,Dallas,zip3:772-zip3:753,"Jan 17, 2023",6.999152062294501
+Houston,Laredo,zip3:772-zip3:780,"Jan 17, 2023",5.8447358142474375
+Houston,San Antonio,zip3:772-zip3:782,"Jan 17, 2023",7.721709515605873
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 17, 2023",3.8608641345595553
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 17, 2023",5.996380048883955
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 17, 2023",5.3825817476927025
+Boston,Edison,zip3:021-zip3:088,"Jan 18, 2023",7.738016344461056
+Boston,Edison,zip3:022-zip3:088,"Jan 18, 2023",7.565567911907905
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 18, 2023",4.765605120620299
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 18, 2023",3.842349663645238
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 18, 2023",4.251151167241121
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 18, 2023",10.188297706813286
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 18, 2023",7.636793629687483
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 18, 2023",4.681995704567203
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 18, 2023",4.287599273333933
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 18, 2023",13.306376108886127
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 18, 2023",7.3104952032213015
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 18, 2023",6.6264673617643
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 18, 2023",5.973133980336305
+Chicago,Chicago,zip3:606-zip3:606,"Jan 18, 2023",28.38383702433079
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 18, 2023",6.618080681148849
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 18, 2023",5.359988387183343
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 18, 2023",5.314756235775125
+Houston,Dallas,zip3:770-zip3:752,"Jan 18, 2023",7.281885208122983
+Houston,Dallas,zip3:770-zip3:753,"Jan 18, 2023",7.543290900521669
+Houston,Laredo,zip3:770-zip3:780,"Jan 18, 2023",5.5794226738960795
+Houston,San Antonio,zip3:770-zip3:782,"Jan 18, 2023",7.279705357908597
+Houston,Dallas,zip3:772-zip3:752,"Jan 18, 2023",7.737705638532221
+Houston,Dallas,zip3:772-zip3:753,"Jan 18, 2023",7.440708782138724
+Houston,Laredo,zip3:772-zip3:780,"Jan 18, 2023",6.232481323956883
+Houston,San Antonio,zip3:772-zip3:782,"Jan 18, 2023",7.57820971420733
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 18, 2023",3.979240439120379
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 18, 2023",6.003311459591274
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 18, 2023",5.367151559612497
+Boston,Edison,zip3:021-zip3:088,"Jan 19, 2023",6.900466086803785
+Boston,Edison,zip3:022-zip3:088,"Jan 19, 2023",6.686651130222456
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 19, 2023",4.650891156448759
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 19, 2023",3.9420017372397114
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 19, 2023",4.342557346643837
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 19, 2023",10.22587053773922
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 19, 2023",7.694363899999296
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 19, 2023",4.594168135854985
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 19, 2023",4.826447635325399
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 19, 2023",13.049388795911053
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 19, 2023",6.89416962664361
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 19, 2023",6.751367883727934
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 19, 2023",5.7339958218100735
+Chicago,Chicago,zip3:606-zip3:606,"Jan 19, 2023",28.256383345951164
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 19, 2023",6.339925987907145
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 19, 2023",5.255494488471529
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 19, 2023",5.279902466948475
+Houston,Dallas,zip3:770-zip3:752,"Jan 19, 2023",6.946660968024332
+Houston,Dallas,zip3:770-zip3:753,"Jan 19, 2023",6.9429430593599815
+Houston,Laredo,zip3:770-zip3:780,"Jan 19, 2023",5.59372961328248
+Houston,San Antonio,zip3:770-zip3:782,"Jan 19, 2023",7.222510952128971
+Houston,Dallas,zip3:772-zip3:752,"Jan 19, 2023",7.0951749646792335
+Houston,Dallas,zip3:772-zip3:753,"Jan 19, 2023",6.982989238177517
+Houston,Laredo,zip3:772-zip3:780,"Jan 19, 2023",6.013522339049703
+Houston,San Antonio,zip3:772-zip3:782,"Jan 19, 2023",7.480472854691239
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 19, 2023",3.995783094603393
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 19, 2023",5.850303365195529
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 19, 2023",5.220517992955854
+Boston,Edison,zip3:021-zip3:088,"Jan 20, 2023",7.335776240878564
+Boston,Edison,zip3:022-zip3:088,"Jan 20, 2023",7.095389930409063
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 20, 2023",4.9220012978488175
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 20, 2023",3.8257993549906395
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 20, 2023",3.972175344080786
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 20, 2023",10.419548953888121
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 20, 2023",7.418708699135713
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 20, 2023",4.953150178471548
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 20, 2023",4.699628925293706
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 20, 2023",12.766428901728105
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 20, 2023",6.350920508193672
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 20, 2023",6.7501530351704435
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 20, 2023",5.626734872442002
+Chicago,Chicago,zip3:606-zip3:606,"Jan 20, 2023",28.356302544131594
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 20, 2023",6.5051776375172565
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 20, 2023",5.474068342896988
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 20, 2023",5.574043651664625
+Houston,Dallas,zip3:770-zip3:752,"Jan 20, 2023",6.3879496064910475
+Houston,Dallas,zip3:770-zip3:753,"Jan 20, 2023",6.359102675139187
+Houston,Laredo,zip3:770-zip3:780,"Jan 20, 2023",5.727385111143032
+Houston,San Antonio,zip3:770-zip3:782,"Jan 20, 2023",7.504561127707682
+Houston,Dallas,zip3:772-zip3:752,"Jan 20, 2023",6.5961887363993945
+Houston,Dallas,zip3:772-zip3:753,"Jan 20, 2023",6.351875133389129
+Houston,Laredo,zip3:772-zip3:780,"Jan 20, 2023",6.11388201232579
+Houston,San Antonio,zip3:772-zip3:782,"Jan 20, 2023",7.729461474260898
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 20, 2023",3.9613823348037864
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 20, 2023",5.976664548000782
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 20, 2023",5.42496738082629
+Boston,Edison,zip3:021-zip3:088,"Jan 21, 2023",6.936688434759981
+Boston,Edison,zip3:022-zip3:088,"Jan 21, 2023",6.939927437034298
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 21, 2023",4.903104182667748
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 21, 2023",3.892334497980232
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 21, 2023",4.014177153566743
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 21, 2023",10.420144186236875
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 21, 2023",8.514498703245948
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 21, 2023",4.972600396894958
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 21, 2023",4.444937770636088
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 21, 2023",13.42066966760013
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 21, 2023",6.455596241193307
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 21, 2023",6.66778408581096
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 21, 2023",5.89494797960497
+Chicago,Chicago,zip3:606-zip3:606,"Jan 21, 2023",27.967426640920227
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 21, 2023",7.294424472232803
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 21, 2023",4.697808623064971
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 21, 2023",4.752900508773625
+Houston,Dallas,zip3:770-zip3:752,"Jan 21, 2023",6.859361168439998
+Houston,Dallas,zip3:770-zip3:753,"Jan 21, 2023",7.089178033045727
+Houston,Laredo,zip3:770-zip3:780,"Jan 21, 2023",5.787084338317245
+Houston,San Antonio,zip3:770-zip3:782,"Jan 21, 2023",7.522007683611993
+Houston,Dallas,zip3:772-zip3:752,"Jan 21, 2023",6.896948029473433
+Houston,Dallas,zip3:772-zip3:753,"Jan 21, 2023",7.016556766129478
+Houston,Laredo,zip3:772-zip3:780,"Jan 21, 2023",6.045536927698331
+Houston,San Antonio,zip3:772-zip3:782,"Jan 21, 2023",7.827045868978475
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 21, 2023",3.917109618641013
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 21, 2023",6.863882735358326
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 21, 2023",5.236572789294426
+Boston,Edison,zip3:021-zip3:088,"Jan 22, 2023",6.320249237719535
+Boston,Edison,zip3:022-zip3:088,"Jan 22, 2023",6.171259661453355
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 22, 2023",4.849699496041506
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 22, 2023",3.8809348657018607
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 22, 2023",4.007260468576806
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 22, 2023",9.937553110836635
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 22, 2023",7.119278309893556
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 22, 2023",4.9643868420077055
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 22, 2023",4.588628791483259
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 22, 2023",12.965160745294316
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 22, 2023",6.463632497672009
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 22, 2023",6.469636386085533
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 22, 2023",5.867175238132813
+Chicago,Chicago,zip3:606-zip3:606,"Jan 22, 2023",27.7935386098803
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 22, 2023",6.819794416788298
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 22, 2023",5.074110127855511
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 22, 2023",5.042553843733492
+Houston,Dallas,zip3:770-zip3:752,"Jan 22, 2023",6.276512429552392
+Houston,Dallas,zip3:770-zip3:753,"Jan 22, 2023",6.472572721401429
+Houston,Laredo,zip3:770-zip3:780,"Jan 22, 2023",5.8180084691439635
+Houston,San Antonio,zip3:770-zip3:782,"Jan 22, 2023",7.250888202347074
+Houston,Dallas,zip3:772-zip3:752,"Jan 22, 2023",6.384728572011118
+Houston,Dallas,zip3:772-zip3:753,"Jan 22, 2023",6.356158617770607
+Houston,Laredo,zip3:772-zip3:780,"Jan 22, 2023",6.132621825389226
+Houston,San Antonio,zip3:772-zip3:782,"Jan 22, 2023",7.641574614957113
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 22, 2023",4.025280665004618
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 22, 2023",6.388913837314081
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 22, 2023",5.280517787327043
+Boston,Edison,zip3:021-zip3:088,"Jan 23, 2023",6.724440374943134
+Boston,Edison,zip3:022-zip3:088,"Jan 23, 2023",6.6036501659851226
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 23, 2023",4.909694444902527
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 23, 2023",4.4282791783631135
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 23, 2023",4.687941524539987
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 23, 2023",11.342215602897168
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 23, 2023",7.308098715557051
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 23, 2023",4.800054003002816
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 23, 2023",4.191910058759662
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 23, 2023",13.692941925197502
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 23, 2023",6.4643335276761915
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 23, 2023",6.826377552356269
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 23, 2023",5.722846582144439
+Chicago,Chicago,zip3:606-zip3:606,"Jan 23, 2023",28.172802669383888
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 23, 2023",6.22709597552158
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 23, 2023",5.413728778642183
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 23, 2023",5.606934833891723
+Houston,Dallas,zip3:770-zip3:752,"Jan 23, 2023",6.294877286930485
+Houston,Dallas,zip3:770-zip3:753,"Jan 23, 2023",6.491368328185393
+Houston,Laredo,zip3:770-zip3:780,"Jan 23, 2023",5.566596262558935
+Houston,San Antonio,zip3:770-zip3:782,"Jan 23, 2023",7.154763735883478
+Houston,Dallas,zip3:772-zip3:752,"Jan 23, 2023",6.702850066623942
+Houston,Dallas,zip3:772-zip3:753,"Jan 23, 2023",6.654947234405639
+Houston,Laredo,zip3:772-zip3:780,"Jan 23, 2023",5.76048058316856
+Houston,San Antonio,zip3:772-zip3:782,"Jan 23, 2023",7.677487488517839
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 23, 2023",4.346548586250382
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 23, 2023",6.11460220553621
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 23, 2023",5.097942617958546
+Boston,Edison,zip3:021-zip3:088,"Jan 24, 2023",6.158379757036252
+Boston,Edison,zip3:022-zip3:088,"Jan 24, 2023",6.3226379892147175
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 24, 2023",4.61053751472258
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 24, 2023",4.077836418829091
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 24, 2023",4.2659092024005485
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 24, 2023",10.901135922529615
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 24, 2023",8.034578063089919
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 24, 2023",4.451047200039374
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 24, 2023",4.590679933830678
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 24, 2023",12.663344968601873
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 24, 2023",6.369899410219373
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 24, 2023",6.600510061706917
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 24, 2023",5.655737053269918
+Chicago,Chicago,zip3:606-zip3:606,"Jan 24, 2023",28.17523523118099
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 24, 2023",6.40026261569321
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 24, 2023",5.258380815020276
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 24, 2023",5.455180012119734
+Houston,Dallas,zip3:770-zip3:752,"Jan 24, 2023",6.144162693625354
+Houston,Dallas,zip3:770-zip3:753,"Jan 24, 2023",6.36022555030684
+Houston,Laredo,zip3:770-zip3:780,"Jan 24, 2023",4.988241277512649
+Houston,San Antonio,zip3:770-zip3:782,"Jan 24, 2023",7.291734395522896
+Houston,Dallas,zip3:772-zip3:752,"Jan 24, 2023",6.275873763444954
+Houston,Dallas,zip3:772-zip3:753,"Jan 24, 2023",6.391823395284875
+Houston,Laredo,zip3:772-zip3:780,"Jan 24, 2023",5.303043982641407
+Houston,San Antonio,zip3:772-zip3:782,"Jan 24, 2023",7.781854606557461
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 24, 2023",4.6031693586596125
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 24, 2023",6.191046890714405
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 24, 2023",5.699642879986582
+Boston,Edison,zip3:021-zip3:088,"Jan 25, 2023",6.215844800982529
+Boston,Edison,zip3:022-zip3:088,"Jan 25, 2023",6.350629957336775
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 25, 2023",4.745529138370223
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 25, 2023",4.2940452895659025
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 25, 2023",4.273765995245154
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 25, 2023",11.32268635816991
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 25, 2023",7.907426908811032
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 25, 2023",4.330123693659239
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 25, 2023",4.180599713648392
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 25, 2023",12.321160851449713
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 25, 2023",6.1660805117845054
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 25, 2023",6.313004123611089
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 25, 2023",5.627226791284111
+Chicago,Chicago,zip3:606-zip3:606,"Jan 25, 2023",28.827153980336508
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 25, 2023",6.455083209182684
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 25, 2023",5.260348633394749
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 25, 2023",5.247697813014862
+Houston,Dallas,zip3:770-zip3:752,"Jan 25, 2023",6.179877217437886
+Houston,Dallas,zip3:770-zip3:753,"Jan 25, 2023",6.098820926950174
+Houston,Laredo,zip3:770-zip3:780,"Jan 25, 2023",4.842939543964977
+Houston,San Antonio,zip3:770-zip3:782,"Jan 25, 2023",7.137924387536202
+Houston,Dallas,zip3:772-zip3:752,"Jan 25, 2023",6.558946258738478
+Houston,Dallas,zip3:772-zip3:753,"Jan 25, 2023",6.307023109559575
+Houston,Laredo,zip3:772-zip3:780,"Jan 25, 2023",4.987688845106007
+Houston,San Antonio,zip3:772-zip3:782,"Jan 25, 2023",7.306284724303033
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 25, 2023",3.600977981315027
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 25, 2023",6.038485434749859
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 25, 2023",5.650233775529091
+Boston,Edison,zip3:021-zip3:088,"Jan 26, 2023",6.216599135678393
+Boston,Edison,zip3:022-zip3:088,"Jan 26, 2023",6.351601472759649
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 26, 2023",4.6985950106753105
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 26, 2023",4.439538924760159
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 26, 2023",4.42689532381454
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 26, 2023",12.02838631093168
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 26, 2023",7.9396342311765284
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 26, 2023",4.5169278305875356
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 26, 2023",4.311905820775843
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 26, 2023",11.84464106457333
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 26, 2023",6.206429742331142
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 26, 2023",5.371004392944852
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 26, 2023",5.603430544360961
+Chicago,Chicago,zip3:606-zip3:606,"Jan 26, 2023",28.678504094907975
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 26, 2023",6.325908349760999
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 26, 2023",5.093206228730007
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 26, 2023",5.314878882945944
+Houston,Dallas,zip3:770-zip3:752,"Jan 26, 2023",5.997864225495686
+Houston,Dallas,zip3:770-zip3:753,"Jan 26, 2023",5.954392128636176
+Houston,Laredo,zip3:770-zip3:780,"Jan 26, 2023",5.190658905071709
+Houston,San Antonio,zip3:770-zip3:782,"Jan 26, 2023",7.146839972325959
+Houston,Dallas,zip3:772-zip3:752,"Jan 26, 2023",6.36146050626305
+Houston,Dallas,zip3:772-zip3:753,"Jan 26, 2023",6.012288648901479
+Houston,Laredo,zip3:772-zip3:780,"Jan 26, 2023",5.55390413499834
+Houston,San Antonio,zip3:772-zip3:782,"Jan 26, 2023",7.380168253755171
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 26, 2023",3.480831900692695
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 26, 2023",5.746722780531662
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 26, 2023",5.469704622064578
+Boston,Edison,zip3:021-zip3:088,"Jan 27, 2023",6.56950754902245
+Boston,Edison,zip3:022-zip3:088,"Jan 27, 2023",6.710326731470415
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 27, 2023",4.713111363057088
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 27, 2023",4.419851615075613
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 27, 2023",4.64545479339656
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 27, 2023",11.00721625834041
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 27, 2023",7.4232129275017344
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 27, 2023",4.582353492001916
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 27, 2023",4.185104187985065
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 27, 2023",12.547917685946446
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 27, 2023",6.33573837324337
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 27, 2023",5.976502618846693
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 27, 2023",5.7270496919527805
+Chicago,Chicago,zip3:606-zip3:606,"Jan 27, 2023",28.734668066847544
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 27, 2023",6.457946773773447
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 27, 2023",5.119074354915917
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 27, 2023",5.049125656483181
+Houston,Dallas,zip3:770-zip3:752,"Jan 27, 2023",7.051476857180951
+Houston,Dallas,zip3:770-zip3:753,"Jan 27, 2023",7.051420012918886
+Houston,Laredo,zip3:770-zip3:780,"Jan 27, 2023",4.728087154985992
+Houston,San Antonio,zip3:770-zip3:782,"Jan 27, 2023",7.012921329482041
+Houston,Dallas,zip3:772-zip3:752,"Jan 27, 2023",7.472659935026385
+Houston,Dallas,zip3:772-zip3:753,"Jan 27, 2023",7.09072142427823
+Houston,Laredo,zip3:772-zip3:780,"Jan 27, 2023",5.0285227387032805
+Houston,San Antonio,zip3:772-zip3:782,"Jan 27, 2023",7.2346957256535
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 27, 2023",3.6288026458088174
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 27, 2023",6.80689066775808
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 27, 2023",6.141149903038183
+Boston,Edison,zip3:021-zip3:088,"Jan 28, 2023",6.307126880914543
+Boston,Edison,zip3:022-zip3:088,"Jan 28, 2023",6.776239722604807
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 28, 2023",4.644648528083321
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 28, 2023",4.431629279306819
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 28, 2023",4.508847415228814
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 28, 2023",10.284643369475985
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 28, 2023",7.646152889631797
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 28, 2023",4.332470905890071
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 28, 2023",4.278369150947643
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 28, 2023",12.082121441678357
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 28, 2023",6.186227587864117
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 28, 2023",5.887162286282617
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 28, 2023",5.579186751302492
+Chicago,Chicago,zip3:606-zip3:606,"Jan 28, 2023",29.090158346219127
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 28, 2023",6.38374277634619
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 28, 2023",5.218687447111881
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 28, 2023",5.282622930936563
+Houston,Dallas,zip3:770-zip3:752,"Jan 28, 2023",7.281455845473255
+Houston,Dallas,zip3:770-zip3:753,"Jan 28, 2023",7.346003328921512
+Houston,Laredo,zip3:770-zip3:780,"Jan 28, 2023",4.501951500844459
+Houston,San Antonio,zip3:770-zip3:782,"Jan 28, 2023",8.129959570065747
+Houston,Dallas,zip3:772-zip3:752,"Jan 28, 2023",7.537969133282305
+Houston,Dallas,zip3:772-zip3:753,"Jan 28, 2023",7.5193017967353075
+Houston,Laredo,zip3:772-zip3:780,"Jan 28, 2023",4.909039994582661
+Houston,San Antonio,zip3:772-zip3:782,"Jan 28, 2023",8.10601722555075
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 28, 2023",3.606033634578158
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 28, 2023",6.93560084131482
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 28, 2023",5.758365712089754
+Boston,Edison,zip3:021-zip3:088,"Jan 29, 2023",6.328406934283992
+Boston,Edison,zip3:022-zip3:088,"Jan 29, 2023",6.877030648112756
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 29, 2023",4.732132074073396
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 29, 2023",4.638644900747307
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 29, 2023",4.742720696919138
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 29, 2023",9.760853362369229
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 29, 2023",7.478725140520684
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 29, 2023",4.6986099289604635
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 29, 2023",4.242949018630548
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 29, 2023",11.888156716297114
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 29, 2023",6.267743879979641
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 29, 2023",6.176754714814212
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 29, 2023",5.656557720987786
+Chicago,Chicago,zip3:606-zip3:606,"Jan 29, 2023",28.79629192725218
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 29, 2023",6.06154969750231
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 29, 2023",5.269828006258059
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 29, 2023",5.301398310589518
+Houston,Dallas,zip3:770-zip3:752,"Jan 29, 2023",7.3333125243725
+Houston,Dallas,zip3:770-zip3:753,"Jan 29, 2023",7.299577469149227
+Houston,Laredo,zip3:770-zip3:780,"Jan 29, 2023",4.6756119973417185
+Houston,San Antonio,zip3:770-zip3:782,"Jan 29, 2023",8.175729520775633
+Houston,Dallas,zip3:772-zip3:752,"Jan 29, 2023",7.818195415329425
+Houston,Dallas,zip3:772-zip3:753,"Jan 29, 2023",7.608304978372289
+Houston,Laredo,zip3:772-zip3:780,"Jan 29, 2023",5.299199391842777
+Houston,San Antonio,zip3:772-zip3:782,"Jan 29, 2023",8.234758786630856
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 29, 2023",3.888632936676176
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 29, 2023",6.080765753121833
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 29, 2023",6.168156272524708
+Boston,Edison,zip3:021-zip3:088,"Jan 30, 2023",6.2838357558367814
+Boston,Edison,zip3:022-zip3:088,"Jan 30, 2023",6.248344637961891
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 30, 2023",4.631527835282203
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 30, 2023",4.16180202253601
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 30, 2023",4.180107569368403
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 30, 2023",11.773021769702519
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 30, 2023",6.950398482799338
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 30, 2023",4.62434316082228
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 30, 2023",4.280729522433727
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 30, 2023",12.501802277978337
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 30, 2023",6.3352281316316965
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 30, 2023",6.27829141139493
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 30, 2023",5.715510952313901
+Chicago,Chicago,zip3:606-zip3:606,"Jan 30, 2023",28.786580482566897
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 30, 2023",6.197954890033836
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 30, 2023",5.388410654409199
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 30, 2023",5.344727839255463
+Houston,Dallas,zip3:770-zip3:752,"Jan 30, 2023",7.19157997808776
+Houston,Dallas,zip3:770-zip3:753,"Jan 30, 2023",7.215946013712337
+Houston,Laredo,zip3:770-zip3:780,"Jan 30, 2023",4.751834657302462
+Houston,San Antonio,zip3:770-zip3:782,"Jan 30, 2023",7.2540747462115664
+Houston,Dallas,zip3:772-zip3:752,"Jan 30, 2023",7.452983854010381
+Houston,Dallas,zip3:772-zip3:753,"Jan 30, 2023",7.315797180509299
+Houston,Laredo,zip3:772-zip3:780,"Jan 30, 2023",5.42123985980227
+Houston,San Antonio,zip3:772-zip3:782,"Jan 30, 2023",7.572097301034734
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 30, 2023",3.764096136575686
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 30, 2023",6.242363455818938
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 30, 2023",6.458749290723977
+Boston,Edison,zip3:021-zip3:088,"Jan 31, 2023",6.538008114883274
+Boston,Edison,zip3:022-zip3:088,"Jan 31, 2023",6.554356186193732
+Elizabeth,Atlanta,zip3:072-zip3:303,"Jan 31, 2023",4.647525427664063
+Atlanta,Dallas,zip3:303-zip3:752,"Jan 31, 2023",4.235654006353676
+Atlanta,Dallas,zip3:303-zip3:753,"Jan 31, 2023",4.269466738309266
+Jacksonville,Orlando,zip3:322-zip3:328,"Jan 31, 2023",11.35668916349024
+Jacksonville,Tampa,zip3:322-zip3:336,"Jan 31, 2023",7.027977033894757
+Memphis,Milwaukee,zip3:381-zip3:532,"Jan 31, 2023",4.603237035347581
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Jan 31, 2023",4.390001683448785
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Jan 31, 2023",12.246991236902126
+Minneapolis,Chicago,zip3:554-zip3:606,"Jan 31, 2023",6.394965315372289
+Chicago,Atlanta,zip3:606-zip3:303,"Jan 31, 2023",6.87318081978699
+Chicago,Minneapolis,zip3:606-zip3:554,"Jan 31, 2023",5.506713456709931
+Chicago,Chicago,zip3:606-zip3:606,"Jan 31, 2023",28.750284260834224
+Saint Louis,Chicago,zip3:631-zip3:606,"Jan 31, 2023",6.36836955703118
+Fort Worth,Houston,zip3:761-zip3:770,"Jan 31, 2023",7.219412432544527
+Fort Worth,Houston,zip3:761-zip3:772,"Jan 31, 2023",7.064579332470366
+Houston,Dallas,zip3:770-zip3:752,"Jan 31, 2023",7.293952595201151
+Houston,Dallas,zip3:770-zip3:753,"Jan 31, 2023",7.239139209744154
+Houston,Laredo,zip3:770-zip3:780,"Jan 31, 2023",5.1023869264551625
+Houston,San Antonio,zip3:770-zip3:782,"Jan 31, 2023",7.451863859271619
+Houston,Dallas,zip3:772-zip3:752,"Jan 31, 2023",7.923046581987391
+Houston,Dallas,zip3:772-zip3:753,"Jan 31, 2023",7.790774778222211
+Houston,Laredo,zip3:772-zip3:780,"Jan 31, 2023",5.456998435093553
+Houston,San Antonio,zip3:772-zip3:782,"Jan 31, 2023",7.970155717469341
+Fort Collins,Phoenix,zip3:805-zip3:850,"Jan 31, 2023",3.7653753795619336
+Los Angeles,Phoenix,zip3:900-zip3:850,"Jan 31, 2023",6.559320738504372
+Van Nuys,Phoenix,zip3:914-zip3:850,"Jan 31, 2023",5.971031218535508
+Boston,Edison,zip3:021-zip3:088,"Feb 1, 2023",6.755442493479361
+Boston,Edison,zip3:022-zip3:088,"Feb 1, 2023",6.9577521615479645
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 1, 2023",4.699557544483845
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 1, 2023",4.161758218023264
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 1, 2023",4.291493080774936
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 1, 2023",10.798887004390211
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 1, 2023",7.643760168685597
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 1, 2023",4.178147842898396
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 1, 2023",4.473046120587931
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 1, 2023",13.342404505234786
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 1, 2023",6.020440523711301
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 1, 2023",6.208996988325449
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 1, 2023",5.430237003948447
+Chicago,Chicago,zip3:606-zip3:606,"Feb 1, 2023",28.300270124486328
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 1, 2023",6.578558438163546
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 1, 2023",5.516260195856372
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 1, 2023",5.382121193371591
+Houston,Dallas,zip3:770-zip3:752,"Feb 1, 2023",7.747801196760669
+Houston,Dallas,zip3:770-zip3:753,"Feb 1, 2023",7.694633270154897
+Houston,Laredo,zip3:770-zip3:780,"Feb 1, 2023",5.618126654831821
+Houston,San Antonio,zip3:770-zip3:782,"Feb 1, 2023",8.213046307574867
+Houston,Dallas,zip3:772-zip3:752,"Feb 1, 2023",7.821586947382
+Houston,Dallas,zip3:772-zip3:753,"Feb 1, 2023",7.688305423500884
+Houston,Laredo,zip3:772-zip3:780,"Feb 1, 2023",5.966418556394817
+Houston,San Antonio,zip3:772-zip3:782,"Feb 1, 2023",8.22262047477873
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 1, 2023",3.8864193492894783
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 1, 2023",6.953510530192082
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 1, 2023",6.628268507721126
+Boston,Edison,zip3:021-zip3:088,"Feb 2, 2023",6.625184768331881
+Boston,Edison,zip3:022-zip3:088,"Feb 2, 2023",6.74564415440998
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 2, 2023",4.56041735846683
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 2, 2023",4.078718772984565
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 2, 2023",4.261532551406465
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 2, 2023",10.592809901715437
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 2, 2023",7.12952050401249
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 2, 2023",4.286618009729859
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 2, 2023",4.298122442832712
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 2, 2023",13.35267435205605
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 2, 2023",6.119782114926302
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 2, 2023",6.0359578682689214
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 2, 2023",5.553463023699485
+Chicago,Chicago,zip3:606-zip3:606,"Feb 2, 2023",28.272010332608133
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 2, 2023",6.366382122248893
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 2, 2023",5.3582443558284
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 2, 2023",5.293539460132044
+Houston,Dallas,zip3:770-zip3:752,"Feb 2, 2023",8.113963290279901
+Houston,Dallas,zip3:770-zip3:753,"Feb 2, 2023",8.058221662768904
+Houston,Laredo,zip3:770-zip3:780,"Feb 2, 2023",5.62742381614572
+Houston,San Antonio,zip3:770-zip3:782,"Feb 2, 2023",8.133586533684717
+Houston,Dallas,zip3:772-zip3:752,"Feb 2, 2023",8.076437851980256
+Houston,Dallas,zip3:772-zip3:753,"Feb 2, 2023",8.017747017858904
+Houston,Laredo,zip3:772-zip3:780,"Feb 2, 2023",6.119635369001182
+Houston,San Antonio,zip3:772-zip3:782,"Feb 2, 2023",8.251131307578367
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 2, 2023",3.658791337237756
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 2, 2023",6.372924141349492
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 2, 2023",5.980034659975594
+Boston,Edison,zip3:021-zip3:088,"Feb 3, 2023",6.84085602397191
+Boston,Edison,zip3:022-zip3:088,"Feb 3, 2023",6.58743113674395
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 3, 2023",4.656295191363197
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 3, 2023",4.313944342628913
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 3, 2023",4.358705980620002
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 3, 2023",10.453073490159728
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 3, 2023",7.600259086029375
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 3, 2023",4.455076376352211
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 3, 2023",4.297713760804256
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 3, 2023",13.220778176881744
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 3, 2023",5.999723928402034
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 3, 2023",5.510857277164833
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 3, 2023",5.330731574979124
+Chicago,Chicago,zip3:606-zip3:606,"Feb 3, 2023",28.341857511926605
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 3, 2023",6.7278341566278765
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 3, 2023",5.303722738905142
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 3, 2023",5.044260081305961
+Houston,Dallas,zip3:770-zip3:752,"Feb 3, 2023",7.138752156637137
+Houston,Dallas,zip3:770-zip3:753,"Feb 3, 2023",7.038036753600231
+Houston,Laredo,zip3:770-zip3:780,"Feb 3, 2023",5.892351973663898
+Houston,San Antonio,zip3:770-zip3:782,"Feb 3, 2023",7.579267796259919
+Houston,Dallas,zip3:772-zip3:752,"Feb 3, 2023",7.130540464983268
+Houston,Dallas,zip3:772-zip3:753,"Feb 3, 2023",7.043461303658217
+Houston,Laredo,zip3:772-zip3:780,"Feb 3, 2023",5.970796584869751
+Houston,San Antonio,zip3:772-zip3:782,"Feb 3, 2023",7.797545429926476
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 3, 2023",3.7261514392956245
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 3, 2023",6.7170393356510125
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 3, 2023",6.813575681143035
+Boston,Edison,zip3:021-zip3:088,"Feb 4, 2023",6.896099929546953
+Boston,Edison,zip3:022-zip3:088,"Feb 4, 2023",6.7827751263296365
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 4, 2023",4.75269479417808
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 4, 2023",4.062063648411396
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 4, 2023",4.1048610133235055
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 4, 2023",11.520768321959183
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 4, 2023",7.592998588262564
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 4, 2023",4.423580556014455
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 4, 2023",4.1336789911060166
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 4, 2023",11.986825710032235
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 4, 2023",6.736924318563943
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 4, 2023",5.48761651923387
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 4, 2023",5.155231398514288
+Chicago,Chicago,zip3:606-zip3:606,"Feb 4, 2023",28.483566413204688
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 4, 2023",6.914817853628024
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 4, 2023",5.4794396651930395
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 4, 2023",5.2266391110921635
+Houston,Dallas,zip3:770-zip3:752,"Feb 4, 2023",7.562232055612046
+Houston,Dallas,zip3:770-zip3:753,"Feb 4, 2023",7.474755483464743
+Houston,Laredo,zip3:770-zip3:780,"Feb 4, 2023",6.554509892873216
+Houston,San Antonio,zip3:770-zip3:782,"Feb 4, 2023",7.978118682660519
+Houston,Dallas,zip3:772-zip3:752,"Feb 4, 2023",7.659256589474881
+Houston,Dallas,zip3:772-zip3:753,"Feb 4, 2023",7.546189566056993
+Houston,Laredo,zip3:772-zip3:780,"Feb 4, 2023",6.790526320427025
+Houston,San Antonio,zip3:772-zip3:782,"Feb 4, 2023",8.011083034360473
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 4, 2023",3.791151013393727
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 4, 2023",5.906540340311765
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 4, 2023",6.562250129426976
+Boston,Edison,zip3:021-zip3:088,"Feb 5, 2023",7.020747768895505
+Boston,Edison,zip3:022-zip3:088,"Feb 5, 2023",7.043811234941846
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 5, 2023",4.603042095706842
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 5, 2023",4.199517612212059
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 5, 2023",4.234630579014179
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 5, 2023",12.011960119281778
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 5, 2023",7.549454263274461
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 5, 2023",4.360730781698928
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 5, 2023",4.158499420953017
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 5, 2023",12.21664923389988
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 5, 2023",6.318140336097601
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 5, 2023",5.631483388422922
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 5, 2023",5.131659825410787
+Chicago,Chicago,zip3:606-zip3:606,"Feb 5, 2023",28.624922290193993
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 5, 2023",6.8734555059617675
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 5, 2023",5.304497249635085
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 5, 2023",5.172345538068564
+Houston,Dallas,zip3:770-zip3:752,"Feb 5, 2023",7.36066073052981
+Houston,Dallas,zip3:770-zip3:753,"Feb 5, 2023",7.431915150289521
+Houston,Laredo,zip3:770-zip3:780,"Feb 5, 2023",6.425315535766837
+Houston,San Antonio,zip3:770-zip3:782,"Feb 5, 2023",7.583099394378317
+Houston,Dallas,zip3:772-zip3:752,"Feb 5, 2023",7.669565884127232
+Houston,Dallas,zip3:772-zip3:753,"Feb 5, 2023",7.551218544809637
+Houston,Laredo,zip3:772-zip3:780,"Feb 5, 2023",6.576821326277548
+Houston,San Antonio,zip3:772-zip3:782,"Feb 5, 2023",7.685187901805497
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 5, 2023",3.911479689310344
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 5, 2023",5.8001199598880415
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 5, 2023",6.546703909139431
+Boston,Edison,zip3:021-zip3:088,"Feb 6, 2023",6.693558180787017
+Boston,Edison,zip3:022-zip3:088,"Feb 6, 2023",6.688574815014848
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 6, 2023",4.739076834468179
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 6, 2023",4.144745067698081
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 6, 2023",4.164852029341832
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 6, 2023",11.983119188836874
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 6, 2023",8.868768606360495
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 6, 2023",4.2875561906072015
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 6, 2023",4.151490689030682
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 6, 2023",12.320553636521678
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 6, 2023",5.927888485080411
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 6, 2023",5.822306879838832
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 6, 2023",5.190569951612117
+Chicago,Chicago,zip3:606-zip3:606,"Feb 6, 2023",28.101247909347585
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 6, 2023",6.141065219087711
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 6, 2023",5.271388317773699
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 6, 2023",4.935013989105749
+Houston,Dallas,zip3:770-zip3:752,"Feb 6, 2023",7.874031178314917
+Houston,Dallas,zip3:770-zip3:753,"Feb 6, 2023",7.670877109404685
+Houston,Laredo,zip3:770-zip3:780,"Feb 6, 2023",5.5257725266992495
+Houston,San Antonio,zip3:770-zip3:782,"Feb 6, 2023",7.870019834961448
+Houston,Dallas,zip3:772-zip3:752,"Feb 6, 2023",8.047886782470375
+Houston,Dallas,zip3:772-zip3:753,"Feb 6, 2023",7.787880748856635
+Houston,Laredo,zip3:772-zip3:780,"Feb 6, 2023",5.588111202403692
+Houston,San Antonio,zip3:772-zip3:782,"Feb 6, 2023",8.006824866803827
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 6, 2023",4.068282959621548
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 6, 2023",5.6115686039987285
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 6, 2023",6.050091557931033
+Boston,Edison,zip3:021-zip3:088,"Feb 7, 2023",6.975903368653746
+Boston,Edison,zip3:022-zip3:088,"Feb 7, 2023",6.455818329477678
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 7, 2023",4.672473775221595
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 7, 2023",4.134563595455453
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 7, 2023",4.103797970016718
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 7, 2023",11.372720873801669
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 7, 2023",7.969355181997479
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 7, 2023",4.194537838699166
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 7, 2023",4.026280291167217
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 7, 2023",12.017493393544274
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 7, 2023",5.870164131221195
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 7, 2023",5.989158549474395
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 7, 2023",5.200216269892091
+Chicago,Chicago,zip3:606-zip3:606,"Feb 7, 2023",28.347369263710167
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 7, 2023",6.1307813042494725
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 7, 2023",5.193546863301139
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 7, 2023",4.946661644640387
+Houston,Dallas,zip3:770-zip3:752,"Feb 7, 2023",7.071993519055104
+Houston,Dallas,zip3:770-zip3:753,"Feb 7, 2023",7.188140367958834
+Houston,Laredo,zip3:770-zip3:780,"Feb 7, 2023",6.056539718164142
+Houston,San Antonio,zip3:770-zip3:782,"Feb 7, 2023",7.268648981449733
+Houston,Dallas,zip3:772-zip3:752,"Feb 7, 2023",7.398816595367616
+Houston,Dallas,zip3:772-zip3:753,"Feb 7, 2023",7.2220456930279795
+Houston,Laredo,zip3:772-zip3:780,"Feb 7, 2023",6.250843607028895
+Houston,San Antonio,zip3:772-zip3:782,"Feb 7, 2023",7.378979065269489
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 7, 2023",3.6480959619112725
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 7, 2023",5.624501417053452
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 7, 2023",5.590735681010262
+Boston,Edison,zip3:021-zip3:088,"Feb 8, 2023",6.100323362050306
+Boston,Edison,zip3:022-zip3:088,"Feb 8, 2023",6.152513074241487
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 8, 2023",4.814644320254795
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 8, 2023",4.1158268879396385
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 8, 2023",4.313166204624997
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 8, 2023",10.856737409575477
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 8, 2023",7.7731768764615765
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 8, 2023",4.278117102783412
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 8, 2023",4.484648137287172
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 8, 2023",11.843925345640242
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 8, 2023",5.858550727233917
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 8, 2023",6.121284598610137
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 8, 2023",5.450920229198257
+Chicago,Chicago,zip3:606-zip3:606,"Feb 8, 2023",28.282789453512024
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 8, 2023",5.939230368189003
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 8, 2023",5.148337134343697
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 8, 2023",4.91365702055638
+Houston,Dallas,zip3:770-zip3:752,"Feb 8, 2023",6.754269635524694
+Houston,Dallas,zip3:770-zip3:753,"Feb 8, 2023",6.819660038076795
+Houston,Laredo,zip3:770-zip3:780,"Feb 8, 2023",5.598383659400324
+Houston,San Antonio,zip3:770-zip3:782,"Feb 8, 2023",7.619447760892022
+Houston,Dallas,zip3:772-zip3:752,"Feb 8, 2023",6.6885775896263935
+Houston,Dallas,zip3:772-zip3:753,"Feb 8, 2023",6.724140659830386
+Houston,Laredo,zip3:772-zip3:780,"Feb 8, 2023",5.683442590264157
+Houston,San Antonio,zip3:772-zip3:782,"Feb 8, 2023",7.522643114126673
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 8, 2023",3.6706553996922064
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 8, 2023",5.946847824075765
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 8, 2023",5.357976230242365
+Boston,Edison,zip3:021-zip3:088,"Feb 9, 2023",6.453304142554934
+Boston,Edison,zip3:022-zip3:088,"Feb 9, 2023",6.315337676017684
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 9, 2023",4.731159286703767
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 9, 2023",4.2481728881682255
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 9, 2023",4.269302224271122
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 9, 2023",11.591173338606296
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 9, 2023",7.738909289975355
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 9, 2023",4.145455444591647
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 9, 2023",4.577287417460955
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 9, 2023",12.138548541499127
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 9, 2023",5.864740839673517
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 9, 2023",5.90796121844766
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 9, 2023",5.725685064249772
+Chicago,Chicago,zip3:606-zip3:606,"Feb 9, 2023",28.07582792637577
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 9, 2023",5.899497862777876
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 9, 2023",5.41082520460124
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 9, 2023",5.10153958921063
+Houston,Dallas,zip3:770-zip3:752,"Feb 9, 2023",6.952419069144671
+Houston,Dallas,zip3:770-zip3:753,"Feb 9, 2023",6.8499271297226905
+Houston,Laredo,zip3:770-zip3:780,"Feb 9, 2023",5.573634376966894
+Houston,San Antonio,zip3:770-zip3:782,"Feb 9, 2023",7.1899468597503
+Houston,Dallas,zip3:772-zip3:752,"Feb 9, 2023",6.807470114640019
+Houston,Dallas,zip3:772-zip3:753,"Feb 9, 2023",6.815376478502603
+Houston,Laredo,zip3:772-zip3:780,"Feb 9, 2023",5.778196716281731
+Houston,San Antonio,zip3:772-zip3:782,"Feb 9, 2023",7.384979973028745
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 9, 2023",3.7952549756326324
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 9, 2023",5.856391758527749
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 9, 2023",5.6569699645183125
+Boston,Edison,zip3:021-zip3:088,"Feb 10, 2023",6.187695789428517
+Boston,Edison,zip3:022-zip3:088,"Feb 10, 2023",6.151439721075452
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 10, 2023",4.540286730177137
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 10, 2023",4.649315993214134
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 10, 2023",4.579673323385291
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 10, 2023",11.146714082261319
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 10, 2023",7.732216920181912
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 10, 2023",4.273729585044013
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 10, 2023",4.253947127955332
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 10, 2023",11.641908537777654
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 10, 2023",5.819442228248299
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 10, 2023",5.668806972381594
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 10, 2023",5.21867068928741
+Chicago,Chicago,zip3:606-zip3:606,"Feb 10, 2023",28.281743352840525
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 10, 2023",6.1497784671370965
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 10, 2023",5.169824477720926
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 10, 2023",5.102180156124648
+Houston,Dallas,zip3:770-zip3:752,"Feb 10, 2023",6.779320010846741
+Houston,Dallas,zip3:770-zip3:753,"Feb 10, 2023",6.77196654532405
+Houston,Laredo,zip3:770-zip3:780,"Feb 10, 2023",4.950168123319062
+Houston,San Antonio,zip3:770-zip3:782,"Feb 10, 2023",7.158954421906097
+Houston,Dallas,zip3:772-zip3:752,"Feb 10, 2023",6.770567901294036
+Houston,Dallas,zip3:772-zip3:753,"Feb 10, 2023",6.585913317125761
+Houston,Laredo,zip3:772-zip3:780,"Feb 10, 2023",5.115093653882254
+Houston,San Antonio,zip3:772-zip3:782,"Feb 10, 2023",7.23775396638624
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 10, 2023",3.73533798924191
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 10, 2023",5.941513837264136
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 10, 2023",5.083911239148778
+Boston,Edison,zip3:021-zip3:088,"Feb 11, 2023",5.853657257891754
+Boston,Edison,zip3:022-zip3:088,"Feb 11, 2023",5.859027210275305
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 11, 2023",4.0924068258566155
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 11, 2023",4.178220284047386
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 11, 2023",4.2674672213359
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 11, 2023",9.537204849407496
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 11, 2023",7.2172904477709405
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 11, 2023",4.285150963389539
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 11, 2023",4.026929367636055
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 11, 2023",11.645534626660382
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 11, 2023",5.920325071400528
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 11, 2023",5.751968234653621
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 11, 2023",5.312918291566367
+Chicago,Chicago,zip3:606-zip3:606,"Feb 11, 2023",28.49864265529353
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 11, 2023",5.922852401651299
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 11, 2023",5.38899739000401
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 11, 2023",4.853463321763512
+Houston,Dallas,zip3:770-zip3:752,"Feb 11, 2023",6.438188373576793
+Houston,Dallas,zip3:770-zip3:753,"Feb 11, 2023",6.4575755248037865
+Houston,Laredo,zip3:770-zip3:780,"Feb 11, 2023",4.768904619882704
+Houston,San Antonio,zip3:770-zip3:782,"Feb 11, 2023",6.981327611007991
+Houston,Dallas,zip3:772-zip3:752,"Feb 11, 2023",6.767489096159425
+Houston,Dallas,zip3:772-zip3:753,"Feb 11, 2023",6.574014276682082
+Houston,Laredo,zip3:772-zip3:780,"Feb 11, 2023",5.07883006437684
+Houston,San Antonio,zip3:772-zip3:782,"Feb 11, 2023",6.9459998256009845
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 11, 2023",3.751453821587044
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 11, 2023",5.850635620671417
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 11, 2023",5.085205851646739
+Boston,Edison,zip3:021-zip3:088,"Feb 12, 2023",5.982459529847206
+Boston,Edison,zip3:022-zip3:088,"Feb 12, 2023",5.974569526477558
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 12, 2023",4.794018364283042
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 12, 2023",4.479521299008543
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 12, 2023",4.478861348220766
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 12, 2023",9.28761104834928
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 12, 2023",6.873713215339286
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 12, 2023",4.167840220146761
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 12, 2023",3.9604645822864217
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 12, 2023",13.01662186859878
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 12, 2023",5.915148463739774
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 12, 2023",5.806443934147715
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 12, 2023",5.657797472880904
+Chicago,Chicago,zip3:606-zip3:606,"Feb 12, 2023",28.496052624390483
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 12, 2023",6.182543809073248
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 12, 2023",5.308297194677599
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 12, 2023",5.002369026276044
+Houston,Dallas,zip3:770-zip3:752,"Feb 12, 2023",6.506410059921582
+Houston,Dallas,zip3:770-zip3:753,"Feb 12, 2023",6.566490389324759
+Houston,Laredo,zip3:770-zip3:780,"Feb 12, 2023",5.583341663511162
+Houston,San Antonio,zip3:770-zip3:782,"Feb 12, 2023",7.027676279601353
+Houston,Dallas,zip3:772-zip3:752,"Feb 12, 2023",6.472336450418977
+Houston,Dallas,zip3:772-zip3:753,"Feb 12, 2023",6.564188850987479
+Houston,Laredo,zip3:772-zip3:780,"Feb 12, 2023",5.714847082819208
+Houston,San Antonio,zip3:772-zip3:782,"Feb 12, 2023",6.914045926357729
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 12, 2023",3.516723302614824
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 12, 2023",5.840967496195496
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 12, 2023",5.259320865565115
+Boston,Edison,zip3:021-zip3:088,"Feb 13, 2023",6.8952840937724496
+Boston,Edison,zip3:022-zip3:088,"Feb 13, 2023",6.812647076566545
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 13, 2023",4.4267438645074275
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 13, 2023",4.235569278589619
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 13, 2023",4.2672930082371945
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 13, 2023",11.128683688260328
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 13, 2023",8.050936854094223
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 13, 2023",4.48404876809799
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 13, 2023",4.4876541094350735
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 13, 2023",13.152300963449168
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 13, 2023",6.4808956647438976
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 13, 2023",5.677249226147638
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 13, 2023",5.215113102069409
+Chicago,Chicago,zip3:606-zip3:606,"Feb 13, 2023",28.20991691283819
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 13, 2023",6.488168948127348
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 13, 2023",5.30085278099291
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 13, 2023",4.9374783560492315
+Houston,Dallas,zip3:770-zip3:752,"Feb 13, 2023",6.031569178751019
+Houston,Dallas,zip3:770-zip3:753,"Feb 13, 2023",6.46783284951082
+Houston,Laredo,zip3:770-zip3:780,"Feb 13, 2023",5.0202869343142655
+Houston,San Antonio,zip3:770-zip3:782,"Feb 13, 2023",8.218002744697442
+Houston,Dallas,zip3:772-zip3:752,"Feb 13, 2023",6.054132942070696
+Houston,Dallas,zip3:772-zip3:753,"Feb 13, 2023",6.17513664845795
+Houston,Laredo,zip3:772-zip3:780,"Feb 13, 2023",4.947066213956148
+Houston,San Antonio,zip3:772-zip3:782,"Feb 13, 2023",8.20252447235393
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 13, 2023",3.8894507009398955
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 13, 2023",5.373737151833024
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 13, 2023",4.784730259769564
+Boston,Edison,zip3:021-zip3:088,"Feb 14, 2023",6.7106155441893005
+Boston,Edison,zip3:022-zip3:088,"Feb 14, 2023",6.775234559312594
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 14, 2023",4.447600132544135
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 14, 2023",4.182036437437951
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 14, 2023",4.229487422488605
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 14, 2023",10.739223638677021
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 14, 2023",7.9248452539422445
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 14, 2023",4.780119654592278
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 14, 2023",4.510320951333954
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 14, 2023",12.59558413711822
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 14, 2023",5.845312819857657
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 14, 2023",5.764463138996453
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 14, 2023",5.20248149189589
+Chicago,Chicago,zip3:606-zip3:606,"Feb 14, 2023",28.949885795123613
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 14, 2023",6.391350521880893
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 14, 2023",5.462719889391048
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 14, 2023",5.069573547661653
+Houston,Dallas,zip3:770-zip3:752,"Feb 14, 2023",6.081607165119701
+Houston,Dallas,zip3:770-zip3:753,"Feb 14, 2023",6.317322916936222
+Houston,Laredo,zip3:770-zip3:780,"Feb 14, 2023",5.248814909564482
+Houston,San Antonio,zip3:770-zip3:782,"Feb 14, 2023",7.881230395434845
+Houston,Dallas,zip3:772-zip3:752,"Feb 14, 2023",6.215911243123662
+Houston,Dallas,zip3:772-zip3:753,"Feb 14, 2023",6.196902980060575
+Houston,Laredo,zip3:772-zip3:780,"Feb 14, 2023",5.3130256915816565
+Houston,San Antonio,zip3:772-zip3:782,"Feb 14, 2023",7.983503459586165
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 14, 2023",3.616997926865077
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 14, 2023",5.426865986685716
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 14, 2023",5.082190845117091
+Boston,Edison,zip3:021-zip3:088,"Feb 15, 2023",7.361256523783908
+Boston,Edison,zip3:022-zip3:088,"Feb 15, 2023",7.3514955762667284
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 15, 2023",4.123508590975523
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 15, 2023",4.114854935194024
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 15, 2023",4.167240294634938
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 15, 2023",10.518862840591261
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 15, 2023",7.665313753173146
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 15, 2023",4.7024660412371855
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 15, 2023",4.4785635249904
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 15, 2023",12.320468686817048
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 15, 2023",6.090504506471696
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 15, 2023",5.678852150318448
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 15, 2023",4.9496177941341735
+Chicago,Chicago,zip3:606-zip3:606,"Feb 15, 2023",29.017346525195617
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 15, 2023",5.846612013320241
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 15, 2023",5.607610652190839
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 15, 2023",5.321532521009617
+Houston,Dallas,zip3:770-zip3:752,"Feb 15, 2023",6.2815709488599705
+Houston,Dallas,zip3:770-zip3:753,"Feb 15, 2023",6.574205291797618
+Houston,Laredo,zip3:770-zip3:780,"Feb 15, 2023",4.934247608834586
+Houston,San Antonio,zip3:770-zip3:782,"Feb 15, 2023",7.603876428000255
+Houston,Dallas,zip3:772-zip3:752,"Feb 15, 2023",6.27848363959027
+Houston,Dallas,zip3:772-zip3:753,"Feb 15, 2023",6.472184794161693
+Houston,Laredo,zip3:772-zip3:780,"Feb 15, 2023",5.016560964633546
+Houston,San Antonio,zip3:772-zip3:782,"Feb 15, 2023",7.76867083629481
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 15, 2023",3.9164237029724243
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 15, 2023",5.589765310432497
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 15, 2023",5.326586128147463
+Boston,Edison,zip3:021-zip3:088,"Feb 16, 2023",6.417452150762012
+Boston,Edison,zip3:022-zip3:088,"Feb 16, 2023",6.403354895353706
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 16, 2023",4.193148991820211
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 16, 2023",4.004650445158312
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 16, 2023",4.157931885941808
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 16, 2023",10.544114803141412
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 16, 2023",8.087599808738059
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 16, 2023",4.224319748661738
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 16, 2023",4.126137439469325
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 16, 2023",11.911238621939548
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 16, 2023",6.411053710162449
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 16, 2023",5.593058872046684
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 16, 2023",5.105498163686532
+Chicago,Chicago,zip3:606-zip3:606,"Feb 16, 2023",28.846305576610217
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 16, 2023",6.05448766593709
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 16, 2023",5.737995073455876
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 16, 2023",5.32463762999731
+Houston,Dallas,zip3:770-zip3:752,"Feb 16, 2023",6.481473711257834
+Houston,Dallas,zip3:770-zip3:753,"Feb 16, 2023",6.633579095233551
+Houston,Laredo,zip3:770-zip3:780,"Feb 16, 2023",5.5081648824100675
+Houston,San Antonio,zip3:770-zip3:782,"Feb 16, 2023",7.78050944504632
+Houston,Dallas,zip3:772-zip3:752,"Feb 16, 2023",6.583053985287399
+Houston,Dallas,zip3:772-zip3:753,"Feb 16, 2023",6.627390675680913
+Houston,Laredo,zip3:772-zip3:780,"Feb 16, 2023",5.571048097101502
+Houston,San Antonio,zip3:772-zip3:782,"Feb 16, 2023",8.06066392603758
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 16, 2023",4.260658324623833
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 16, 2023",5.245350219450881
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 16, 2023",5.238601465914038
+Boston,Edison,zip3:021-zip3:088,"Feb 17, 2023",7.656945290683358
+Boston,Edison,zip3:022-zip3:088,"Feb 17, 2023",7.557163361450204
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 17, 2023",4.256779476905407
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 17, 2023",4.150907009759216
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 17, 2023",4.240883915943258
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 17, 2023",9.937433187564238
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 17, 2023",7.86346561679236
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 17, 2023",4.330661073056062
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 17, 2023",4.107841311435246
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 17, 2023",11.595891952816116
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 17, 2023",6.040513589449764
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 17, 2023",5.832216407950016
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 17, 2023",5.018283104951301
+Chicago,Chicago,zip3:606-zip3:606,"Feb 17, 2023",28.434379973168205
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 17, 2023",6.554755506167632
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 17, 2023",5.348892457494755
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 17, 2023",5.041122936804886
+Houston,Dallas,zip3:770-zip3:752,"Feb 17, 2023",6.574680597948364
+Houston,Dallas,zip3:770-zip3:753,"Feb 17, 2023",6.914309103242699
+Houston,Laredo,zip3:770-zip3:780,"Feb 17, 2023",5.061744921803163
+Houston,San Antonio,zip3:770-zip3:782,"Feb 17, 2023",7.887347227880554
+Houston,Dallas,zip3:772-zip3:752,"Feb 17, 2023",6.539866945727621
+Houston,Dallas,zip3:772-zip3:753,"Feb 17, 2023",6.856144881985772
+Houston,Laredo,zip3:772-zip3:780,"Feb 17, 2023",5.4481414066956235
+Houston,San Antonio,zip3:772-zip3:782,"Feb 17, 2023",8.379833138717373
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 17, 2023",3.7856982753381527
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 17, 2023",5.367756085229755
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 17, 2023",5.1142357435497185
+Boston,Edison,zip3:021-zip3:088,"Feb 18, 2023",7.233524798771572
+Boston,Edison,zip3:022-zip3:088,"Feb 18, 2023",6.688761003081465
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 18, 2023",4.287173097456187
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 18, 2023",4.014199147489494
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 18, 2023",4.276911522195146
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 18, 2023",10.559520507944267
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 18, 2023",7.5391507425813025
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 18, 2023",4.121812419827456
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 18, 2023",4.76238712472291
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 18, 2023",11.99110818271016
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 18, 2023",6.933878140292364
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 18, 2023",4.67873579221947
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 18, 2023",5.18459981710851
+Chicago,Chicago,zip3:606-zip3:606,"Feb 18, 2023",28.04588309527945
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 18, 2023",6.348264440773763
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 18, 2023",4.977672414851151
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 18, 2023",4.947570149352089
+Houston,Dallas,zip3:770-zip3:752,"Feb 18, 2023",6.484740735245069
+Houston,Dallas,zip3:770-zip3:753,"Feb 18, 2023",6.95820456255723
+Houston,Laredo,zip3:770-zip3:780,"Feb 18, 2023",4.591442538460857
+Houston,San Antonio,zip3:770-zip3:782,"Feb 18, 2023",7.502248783265937
+Houston,Dallas,zip3:772-zip3:752,"Feb 18, 2023",6.37057405750372
+Houston,Dallas,zip3:772-zip3:753,"Feb 18, 2023",6.885737399782684
+Houston,Laredo,zip3:772-zip3:780,"Feb 18, 2023",4.816464058982758
+Houston,San Antonio,zip3:772-zip3:782,"Feb 18, 2023",7.672206152089738
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 18, 2023",3.9729683046121425
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 18, 2023",5.389334901827564
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 18, 2023",5.163831954197639
+Boston,Edison,zip3:021-zip3:088,"Feb 19, 2023",7.149591982882777
+Boston,Edison,zip3:022-zip3:088,"Feb 19, 2023",6.243917328798975
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 19, 2023",4.101054736969844
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 19, 2023",4.795910942184637
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 19, 2023",4.8576234784961745
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 19, 2023",10.405317542974771
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 19, 2023",7.372360326808044
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 19, 2023",4.498834370058759
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 19, 2023",4.662110728386543
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 19, 2023",13.52416235625806
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 19, 2023",6.200996295611159
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 19, 2023",5.6362235777178995
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 19, 2023",5.0656737006707555
+Chicago,Chicago,zip3:606-zip3:606,"Feb 19, 2023",28.245698466124853
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 19, 2023",6.150931959054075
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 19, 2023",4.96258411719032
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 19, 2023",5.046585466117763
+Houston,Dallas,zip3:770-zip3:752,"Feb 19, 2023",6.2449280006537045
+Houston,Dallas,zip3:770-zip3:753,"Feb 19, 2023",6.254527699216217
+Houston,Laredo,zip3:770-zip3:780,"Feb 19, 2023",4.261047376996938
+Houston,San Antonio,zip3:770-zip3:782,"Feb 19, 2023",7.473577763081985
+Houston,Dallas,zip3:772-zip3:752,"Feb 19, 2023",6.292691134630709
+Houston,Dallas,zip3:772-zip3:753,"Feb 19, 2023",6.2395812148152565
+Houston,Laredo,zip3:772-zip3:780,"Feb 19, 2023",4.414173188590104
+Houston,San Antonio,zip3:772-zip3:782,"Feb 19, 2023",7.910891796988729
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 19, 2023",4.108754647584029
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 19, 2023",6.041365590535372
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 19, 2023",4.994795929755769
+Boston,Edison,zip3:021-zip3:088,"Feb 20, 2023",5.826667860979444
+Boston,Edison,zip3:022-zip3:088,"Feb 20, 2023",6.414053347713674
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 20, 2023",4.073875594162269
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 20, 2023",4.273127392125284
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 20, 2023",4.332079643468191
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 20, 2023",9.774507511774374
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 20, 2023",8.02037259265854
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 20, 2023",4.442848465043527
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 20, 2023",4.429930910248549
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 20, 2023",12.213169740708167
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 20, 2023",6.105385080096148
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 20, 2023",6.024708135268822
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 20, 2023",5.033510059082623
+Chicago,Chicago,zip3:606-zip3:606,"Feb 20, 2023",28.299773821713465
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 20, 2023",6.194763751644835
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 20, 2023",5.31939961950285
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 20, 2023",5.126985110819956
+Houston,Dallas,zip3:770-zip3:752,"Feb 20, 2023",6.18858184555976
+Houston,Dallas,zip3:770-zip3:753,"Feb 20, 2023",6.53155745462565
+Houston,Laredo,zip3:770-zip3:780,"Feb 20, 2023",5.022447968123066
+Houston,San Antonio,zip3:770-zip3:782,"Feb 20, 2023",8.151747428538057
+Houston,Dallas,zip3:772-zip3:752,"Feb 20, 2023",6.289661873729113
+Houston,Dallas,zip3:772-zip3:753,"Feb 20, 2023",6.454438707972363
+Houston,Laredo,zip3:772-zip3:780,"Feb 20, 2023",5.309414103982075
+Houston,San Antonio,zip3:772-zip3:782,"Feb 20, 2023",8.560480695588442
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 20, 2023",3.8644306220551217
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 20, 2023",5.567537854904981
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 20, 2023",5.201300502892009
+Boston,Edison,zip3:021-zip3:088,"Feb 21, 2023",6.238648611236984
+Boston,Edison,zip3:022-zip3:088,"Feb 21, 2023",6.247609590128109
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 21, 2023",4.092812121863176
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 21, 2023",4.1990737770312965
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 21, 2023",4.4460588230316755
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 21, 2023",9.531961989861859
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 21, 2023",8.057195647596162
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 21, 2023",4.612232152369936
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 21, 2023",4.333864114326869
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 21, 2023",12.190039062447694
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 21, 2023",6.007215014846604
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 21, 2023",5.952666954920511
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 21, 2023",6.000127829744137
+Chicago,Chicago,zip3:606-zip3:606,"Feb 21, 2023",28.472069859046044
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 21, 2023",6.149057667587078
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 21, 2023",5.31912122760111
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 21, 2023",5.205535508625737
+Houston,Dallas,zip3:770-zip3:752,"Feb 21, 2023",6.3524249383451545
+Houston,Dallas,zip3:770-zip3:753,"Feb 21, 2023",6.490934250722097
+Houston,Laredo,zip3:770-zip3:780,"Feb 21, 2023",5.3180955767220635
+Houston,San Antonio,zip3:770-zip3:782,"Feb 21, 2023",8.076725371494247
+Houston,Dallas,zip3:772-zip3:752,"Feb 21, 2023",6.485873175284978
+Houston,Dallas,zip3:772-zip3:753,"Feb 21, 2023",6.533670307370251
+Houston,Laredo,zip3:772-zip3:780,"Feb 21, 2023",5.458051385466288
+Houston,San Antonio,zip3:772-zip3:782,"Feb 21, 2023",8.420033554054768
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 21, 2023",3.9526028217674836
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 21, 2023",5.2911625326815015
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 21, 2023",5.041883939658647
+Boston,Edison,zip3:021-zip3:088,"Feb 22, 2023",5.833769969691137
+Boston,Edison,zip3:022-zip3:088,"Feb 22, 2023",5.869856511171278
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 22, 2023",4.089479428143742
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 22, 2023",4.232996610796989
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 22, 2023",4.411224697061591
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 22, 2023",9.628845393706433
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 22, 2023",8.00417670706303
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 22, 2023",4.536340776673082
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 22, 2023",4.114170533395076
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 22, 2023",12.331075992406571
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 22, 2023",6.2601995657710034
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 22, 2023",5.932351247891239
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 22, 2023",5.355637224282619
+Chicago,Chicago,zip3:606-zip3:606,"Feb 22, 2023",27.71053811199772
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 22, 2023",6.288599443155789
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 22, 2023",5.971062549493384
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 22, 2023",5.870313736487758
+Houston,Dallas,zip3:770-zip3:752,"Feb 22, 2023",6.4940143570754305
+Houston,Dallas,zip3:770-zip3:753,"Feb 22, 2023",6.509885374601222
+Houston,Laredo,zip3:770-zip3:780,"Feb 22, 2023",5.467594568689606
+Houston,San Antonio,zip3:770-zip3:782,"Feb 22, 2023",7.8262265981135455
+Houston,Dallas,zip3:772-zip3:752,"Feb 22, 2023",6.68549451775535
+Houston,Dallas,zip3:772-zip3:753,"Feb 22, 2023",6.563151880411361
+Houston,Laredo,zip3:772-zip3:780,"Feb 22, 2023",5.62030318316929
+Houston,San Antonio,zip3:772-zip3:782,"Feb 22, 2023",8.090697201260932
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 22, 2023",3.656619758544111
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 22, 2023",5.401215736768177
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 22, 2023",5.230963015613174
+Boston,Edison,zip3:021-zip3:088,"Feb 23, 2023",5.792130973179596
+Boston,Edison,zip3:022-zip3:088,"Feb 23, 2023",6.027184353779525
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 23, 2023",3.7686230202552373
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 23, 2023",4.145285183966565
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 23, 2023",4.121562634642352
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 23, 2023",11.692791145133022
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 23, 2023",7.876110989376924
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 23, 2023",4.5223935560627435
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 23, 2023",4.027430244726402
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 23, 2023",11.892267429893604
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 23, 2023",7.1167972843663865
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 23, 2023",5.936492360944921
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 23, 2023",5.564269358945092
+Chicago,Chicago,zip3:606-zip3:606,"Feb 23, 2023",27.72311665291813
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 23, 2023",6.622710291394053
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 23, 2023",5.1520991400632
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 23, 2023",5.082958004785331
+Houston,Dallas,zip3:770-zip3:752,"Feb 23, 2023",6.898970469656419
+Houston,Dallas,zip3:770-zip3:753,"Feb 23, 2023",7.03035691674563
+Houston,Laredo,zip3:770-zip3:780,"Feb 23, 2023",6.0014210022871595
+Houston,San Antonio,zip3:770-zip3:782,"Feb 23, 2023",7.42167430915755
+Houston,Dallas,zip3:772-zip3:752,"Feb 23, 2023",7.094598168015487
+Houston,Dallas,zip3:772-zip3:753,"Feb 23, 2023",7.123886262900505
+Houston,Laredo,zip3:772-zip3:780,"Feb 23, 2023",6.056459095520104
+Houston,San Antonio,zip3:772-zip3:782,"Feb 23, 2023",8.095011902866029
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 23, 2023",3.527172564223335
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 23, 2023",5.174369097517368
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 23, 2023",4.781603744752337
+Boston,Edison,zip3:021-zip3:088,"Feb 24, 2023",5.945364378670082
+Boston,Edison,zip3:022-zip3:088,"Feb 24, 2023",6.127701128020575
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 24, 2023",3.9956164044099003
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 24, 2023",4.092886982732486
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 24, 2023",4.109716731217694
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 24, 2023",10.759228941204558
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 24, 2023",7.574853545095653
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 24, 2023",4.497601823626776
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 24, 2023",3.9585806564127575
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 24, 2023",10.683665603666674
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 24, 2023",6.486610250884739
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 24, 2023",5.686219532118832
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 24, 2023",5.587448577709521
+Chicago,Chicago,zip3:606-zip3:606,"Feb 24, 2023",28.596206131954215
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 24, 2023",6.403517897282275
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 24, 2023",4.988906520468024
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 24, 2023",5.041320703866383
+Houston,Dallas,zip3:770-zip3:752,"Feb 24, 2023",6.798003103146309
+Houston,Dallas,zip3:770-zip3:753,"Feb 24, 2023",6.8877390085898735
+Houston,Laredo,zip3:770-zip3:780,"Feb 24, 2023",5.7061245547845685
+Houston,San Antonio,zip3:770-zip3:782,"Feb 24, 2023",7.24885742654214
+Houston,Dallas,zip3:772-zip3:752,"Feb 24, 2023",6.830286736789134
+Houston,Dallas,zip3:772-zip3:753,"Feb 24, 2023",6.869731851918708
+Houston,Laredo,zip3:772-zip3:780,"Feb 24, 2023",5.736932591446044
+Houston,San Antonio,zip3:772-zip3:782,"Feb 24, 2023",7.747641177288913
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 24, 2023",3.557869848374187
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 24, 2023",5.425422679072888
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 24, 2023",5.176808869861997
+Boston,Edison,zip3:021-zip3:088,"Feb 25, 2023",5.973614870376851
+Boston,Edison,zip3:022-zip3:088,"Feb 25, 2023",6.112812352711915
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 25, 2023",3.7004352262464
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 25, 2023",3.870877639374891
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 25, 2023",3.924442987270229
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 25, 2023",10.978056999586013
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 25, 2023",7.765718428701889
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 25, 2023",4.7256004070014175
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 25, 2023",4.056436513791274
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 25, 2023",11.34296125461869
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 25, 2023",5.975741415237362
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 25, 2023",5.456374285966508
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 25, 2023",5.662501212269063
+Chicago,Chicago,zip3:606-zip3:606,"Feb 25, 2023",28.351239511465828
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 25, 2023",6.491449960777092
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 25, 2023",4.819862009262678
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 25, 2023",4.783330641475418
+Houston,Dallas,zip3:770-zip3:752,"Feb 25, 2023",6.361464601704417
+Houston,Dallas,zip3:770-zip3:753,"Feb 25, 2023",6.309552644237522
+Houston,Laredo,zip3:770-zip3:780,"Feb 25, 2023",5.199354696339396
+Houston,San Antonio,zip3:770-zip3:782,"Feb 25, 2023",7.190171689312747
+Houston,Dallas,zip3:772-zip3:752,"Feb 25, 2023",6.498197620967572
+Houston,Dallas,zip3:772-zip3:753,"Feb 25, 2023",6.424199837233029
+Houston,Laredo,zip3:772-zip3:780,"Feb 25, 2023",5.165334942383501
+Houston,San Antonio,zip3:772-zip3:782,"Feb 25, 2023",7.682935413157403
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 25, 2023",3.824561225810637
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 25, 2023",5.12632266799584
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 25, 2023",4.957013472347765
+Boston,Edison,zip3:021-zip3:088,"Feb 26, 2023",5.886421560644239
+Boston,Edison,zip3:022-zip3:088,"Feb 26, 2023",6.000656305453214
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 26, 2023",3.5605697441312
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 26, 2023",3.887504988721367
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 26, 2023",3.920019975005377
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 26, 2023",10.492737416016205
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 26, 2023",7.682793608574245
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 26, 2023",4.785948093960735
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 26, 2023",3.885850200358118
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 26, 2023",10.794245815380535
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 26, 2023",5.944244815044566
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 26, 2023",5.605326565539143
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 26, 2023",5.788797044735556
+Chicago,Chicago,zip3:606-zip3:606,"Feb 26, 2023",28.312625890204817
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 26, 2023",6.209299200006496
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 26, 2023",5.250253969743076
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 26, 2023",5.321256236093473
+Houston,Dallas,zip3:770-zip3:752,"Feb 26, 2023",6.544398080084223
+Houston,Dallas,zip3:770-zip3:753,"Feb 26, 2023",6.509146495141827
+Houston,Laredo,zip3:770-zip3:780,"Feb 26, 2023",5.743346125587896
+Houston,San Antonio,zip3:770-zip3:782,"Feb 26, 2023",7.1681146119248265
+Houston,Dallas,zip3:772-zip3:752,"Feb 26, 2023",6.629713767397341
+Houston,Dallas,zip3:772-zip3:753,"Feb 26, 2023",6.524563413575029
+Houston,Laredo,zip3:772-zip3:780,"Feb 26, 2023",5.834664528974384
+Houston,San Antonio,zip3:772-zip3:782,"Feb 26, 2023",7.3008598252848405
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 26, 2023",3.8282651750392223
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 26, 2023",5.239834851718609
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 26, 2023",5.612478801232281
+Boston,Edison,zip3:021-zip3:088,"Feb 27, 2023",5.678519766707088
+Boston,Edison,zip3:022-zip3:088,"Feb 27, 2023",5.832187808834716
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 27, 2023",3.990060819746967
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 27, 2023",4.102536723637838
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 27, 2023",4.230248156029112
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 27, 2023",10.518321546129634
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 27, 2023",7.765325472374014
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 27, 2023",4.725480914818924
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 27, 2023",4.302693074362724
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 27, 2023",10.717892063129423
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 27, 2023",6.10462692560327
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 27, 2023",5.789073893322901
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 27, 2023",5.4479157303591474
+Chicago,Chicago,zip3:606-zip3:606,"Feb 27, 2023",28.604974812097076
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 27, 2023",6.589201367084897
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 27, 2023",5.319365738200739
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 27, 2023",5.29166710623982
+Houston,Dallas,zip3:770-zip3:752,"Feb 27, 2023",5.630840949856685
+Houston,Dallas,zip3:770-zip3:753,"Feb 27, 2023",5.55812238767405
+Houston,Laredo,zip3:770-zip3:780,"Feb 27, 2023",5.644195411896749
+Houston,San Antonio,zip3:770-zip3:782,"Feb 27, 2023",7.2347033704257
+Houston,Dallas,zip3:772-zip3:752,"Feb 27, 2023",5.7019486162616655
+Houston,Dallas,zip3:772-zip3:753,"Feb 27, 2023",5.5501125000142455
+Houston,Laredo,zip3:772-zip3:780,"Feb 27, 2023",5.87054153952047
+Houston,San Antonio,zip3:772-zip3:782,"Feb 27, 2023",7.472088972278289
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 27, 2023",3.5808436890728865
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 27, 2023",5.3287777604420565
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 27, 2023",5.81671189882599
+Boston,Edison,zip3:021-zip3:088,"Feb 28, 2023",5.942266869917724
+Boston,Edison,zip3:022-zip3:088,"Feb 28, 2023",6.060838430124078
+Elizabeth,Atlanta,zip3:072-zip3:303,"Feb 28, 2023",3.792796998070245
+Atlanta,Dallas,zip3:303-zip3:752,"Feb 28, 2023",4.021153987957233
+Atlanta,Dallas,zip3:303-zip3:753,"Feb 28, 2023",3.9877355457456733
+Jacksonville,Orlando,zip3:322-zip3:328,"Feb 28, 2023",10.038354981431757
+Jacksonville,Tampa,zip3:322-zip3:336,"Feb 28, 2023",8.09119951159295
+Memphis,Milwaukee,zip3:381-zip3:532,"Feb 28, 2023",4.735998504101261
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Feb 28, 2023",4.39866670108777
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Feb 28, 2023",10.245136067012169
+Minneapolis,Chicago,zip3:554-zip3:606,"Feb 28, 2023",6.32660318194686
+Chicago,Atlanta,zip3:606-zip3:303,"Feb 28, 2023",5.9024466082956515
+Chicago,Minneapolis,zip3:606-zip3:554,"Feb 28, 2023",5.519299100544633
+Chicago,Chicago,zip3:606-zip3:606,"Feb 28, 2023",28.734456798651507
+Saint Louis,Chicago,zip3:631-zip3:606,"Feb 28, 2023",6.614669260508844
+Fort Worth,Houston,zip3:761-zip3:770,"Feb 28, 2023",5.368614160781728
+Fort Worth,Houston,zip3:761-zip3:772,"Feb 28, 2023",5.437694317387543
+Houston,Dallas,zip3:770-zip3:752,"Feb 28, 2023",7.592851729785623
+Houston,Dallas,zip3:770-zip3:753,"Feb 28, 2023",7.281112295276755
+Houston,Laredo,zip3:770-zip3:780,"Feb 28, 2023",5.404756748765735
+Houston,San Antonio,zip3:770-zip3:782,"Feb 28, 2023",7.250328571863832
+Houston,Dallas,zip3:772-zip3:752,"Feb 28, 2023",7.658893382168355
+Houston,Dallas,zip3:772-zip3:753,"Feb 28, 2023",7.639967289224735
+Houston,Laredo,zip3:772-zip3:780,"Feb 28, 2023",5.517669927141079
+Houston,San Antonio,zip3:772-zip3:782,"Feb 28, 2023",7.427538519483866
+Fort Collins,Phoenix,zip3:805-zip3:850,"Feb 28, 2023",3.7262163046712837
+Los Angeles,Phoenix,zip3:900-zip3:850,"Feb 28, 2023",5.2829588016633675
+Van Nuys,Phoenix,zip3:914-zip3:850,"Feb 28, 2023",5.191816098589937
+Boston,Edison,zip3:021-zip3:088,"Mar 1, 2023",5.578600276063964
+Boston,Edison,zip3:022-zip3:088,"Mar 1, 2023",5.708620808913201
+Elizabeth,Atlanta,zip3:072-zip3:303,"Mar 1, 2023",4.056325403720715
+Atlanta,Dallas,zip3:303-zip3:752,"Mar 1, 2023",4.054025489964811
+Atlanta,Dallas,zip3:303-zip3:753,"Mar 1, 2023",4.09391725952795
+Jacksonville,Orlando,zip3:322-zip3:328,"Mar 1, 2023",9.555379745826796
+Jacksonville,Tampa,zip3:322-zip3:336,"Mar 1, 2023",7.885334189160806
+Memphis,Milwaukee,zip3:381-zip3:532,"Mar 1, 2023",4.795706443581306
+Cleveland,Grand Prairie,zip3:441-zip3:750,"Mar 1, 2023",4.869880177125838
+Indianapolis,Cincinnati,zip3:462-zip3:452,"Mar 1, 2023",11.184209893114556
+Minneapolis,Chicago,zip3:554-zip3:606,"Mar 1, 2023",6.341775312601513
+Chicago,Atlanta,zip3:606-zip3:303,"Mar 1, 2023",5.791992074054145
+Chicago,Minneapolis,zip3:606-zip3:554,"Mar 1, 2023",5.567916033063661
+Chicago,Chicago,zip3:606-zip3:606,"Mar 1, 2023",28.547465569295724
+Saint Louis,Chicago,zip3:631-zip3:606,"Mar 1, 2023",5.935505853818174
+Fort Worth,Houston,zip3:761-zip3:770,"Mar 1, 2023",5.4967751974566
+Fort Worth,Houston,zip3:761-zip3:772,"Mar 1, 2023",5.503982330227057
+Houston,Dallas,zip3:770-zip3:752,"Mar 1, 2023",7.16336291467635
+Houston,Dallas,zip3:770-zip3:753,"Mar 1, 2023",7.059007113319478
+Houston,Laredo,zip3:770-zip3:780,"Mar 1, 2023",5.553978874590302
+Houston,San Antonio,zip3:770-zip3:782,"Mar 1, 2023",7.305088312918899
+Houston,Dallas,zip3:772-zip3:752,"Mar 1, 2023",7.261385425003544
+Houston,Dallas,zip3:772-zip3:753,"Mar 1, 2023",7.087949028876933
+Houston,Laredo,zip3:772-zip3:780,"Mar 1, 2023",5.9318943569608305
+Houston,San Antonio,zip3:772-zip3:782,"Mar 1, 2023",7.260448193230177
+Fort Collins,Phoenix,zip3:805-zip3:850,"Mar 1, 2023",4.220437496973222
+Los Angeles,Phoenix,zip3:900-zip3:850,"Mar 1, 2023",5.180514653245679
+Van Nuys,Phoenix,zip3:914-zip3:850,"Mar 1, 2023",5.166701150872949
